@@ -13,7 +13,7 @@
 		</div>
 <div id="buscador-form">
 <form action="buscar.php" method="POST">
-	<input type="text" id="palabra" name placeholder="Busca">
+	<input type="text" id="palabra"  placeholder="Busca">
 	<input type="submit" value="Buscar">
 </form>
 </div>
