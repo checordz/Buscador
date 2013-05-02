@@ -1,13 +1,11 @@
 <?php 
 echo "busqueda.php";
 
-<<<<<<< HEAD
 echo "esto es una prueba";
 
 
 $palabra = $_POST['palabra'];
 
-=======
 $archivo = fopen("./jugadores", "w+");
 $arregloJugadores = array();
 
@@ -22,12 +20,12 @@ class Jugador
 	}
 }
 **/
+
 while(!feof($archivo))
 {
 	echo fgets($archivo);
 }
 
 fclose($archivo);
->>>>>>> buscar.php
 
 ?>
