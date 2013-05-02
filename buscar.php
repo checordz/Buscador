@@ -6,7 +6,7 @@ echo "esto es una prueba";
 
 $palabra = $_POST['palabra'];
 
-$archivo = fopen("./jugadores.txt", "w+");
+$archivo = fopen("./jugadores.txt", "r");
 $arregloJugadores = array();
 
 /**
