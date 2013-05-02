@@ -22,7 +22,9 @@ class Jugador
 while(!feof($archivo))
 {
 	$nombres = (string) fgets($archivo);
-	$arregloJugadores[] = new Jugador($nombres);
+	$nombres = str_replace('\n', '\r', $nombres);
+	$trimmed = trim($nombres);
+	$arregloJugadores[] = new Jugador($trimmed);
 }
 
 fclose($archivo);
@@ -35,12 +37,11 @@ echo "</pre>";
 function buscar($termino)
 {
 	global $arregloJugadores;
-
 	foreach ($arregloJugadores as $key => $value)
 	{
+		echo $value->Nombre;
 		if($value->Nombre === $termino)
 		{
-			echo "llegue";
 			global $jugadoresEncontrados;
 			$jugadoresEncontrados[] = $value;
 		}
