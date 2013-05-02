@@ -5,6 +5,7 @@ $palabra = $_POST['palabra'];
 
 $archivo = fopen("./jugadores.txt", "r");
 $arregloJugadores = array();
+$jugadoresEncontrados = array();
 
 
 class Jugador
@@ -28,6 +29,24 @@ fclose($archivo);
 
 echo "<pre>";
 print_r($arregloJugadores);
+echo "</pre>";
+
+function buscar($termino)
+{
+	foreach ($arregloJugadores as $key => $value)
+	{
+		echo $value->Nombre;
+		if($value->Nombre == $termino)
+		{
+			$jugadoresEncontrados[] = $value;
+		}
+	}
+}
+
+buscar($palabra);
+
+echo "<pre>";
+print_r($jugadoresEncontrados);
 echo "</pre>";
 
 ?>
