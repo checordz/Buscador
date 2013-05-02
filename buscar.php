@@ -31,19 +31,23 @@ echo "<pre>";
 print_r($arregloJugadores);
 echo "</pre>";
 
-function buscar($termino, $arregloJugadores)
+function buscar($termino)
 {
+	global $arregloJugadores;
+
 	foreach ($arregloJugadores as $key => $value)
 	{
-		if($value->Nombre == $termino)
+		echo $termino;
+		if($value->Nombre === $termino)
 		{
+			echo "llegue";
 			global $jugadoresEncontrados;
 			$jugadoresEncontrados[] = $value;
 		}
 	}
 }
 
-buscar($palabra, $arregloJugadores);
+buscar($palabra);
 
 echo "<pre>";
 print_r($jugadoresEncontrados);
