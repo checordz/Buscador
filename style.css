@@ -1,0 +1,81 @@
+#wrapper{
+
+	min-width: 967px;
+	position: relative;
+	max-width:1200px;
+	/*background: #28baff;*/
+	margin: 0 auto;
+}
+
+#buscador-form{
+	/*border: 1px solid #DDD;*/
+	background: White;
+	padding: 1%;
+	width: 98%;
+}
+
+#buscador-form{
+    margin: 0;    
+
+
+}
+#buscador-form input[type="text"]{
+ height: 28px;
+margin-right: 10px;
+margin-bottom: 0;
+width: 600px;
+border: 1px solid #eee;
+background: #fff;
+}
+#buscador-form input[type="text"]:focus{
+    background: #fff;
+}
+#buscador-form input[type="submit"]{
+    background-image: url("search-icon.png");
+    background-size: 16px 16px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 36px;
+    margin: -1px 0 0;
+    width: 84px;
+    text-indent: -6000px;    
+}
+
+input[type="submit"] {
+outline: 0;
+border-width: 0 1px 1px 0;
+border-style: solid;
+border-color: rgb(238, 241, 243);
+background: #01A1DF;
+padding: 10px 10px 6px;
+}
+
+input[type="submit"]:hover {
+background: #0190CF;
+cursor: pointer;
+}
+
+form {
+width: 702px;
+margin-left: auto;
+margin-right: auto;
+}
+
+#logo{
+
+    background-image: url("Logo.png");
+    background-size: 275px 95px;
+    background-repeat: no-repeat;
+height: 95px;
+width: 275px;
+margin-left: auto;
+margin-right: auto;
+padding-bottom: 10px;
+
+}
+
+#buscador{
+
+    padding-top: 112px;
+}
+
