@@ -6,24 +6,28 @@ $palabra = $_POST['palabra'];
 $archivo = fopen("./jugadores.txt", "r");
 $arregloJugadores = array();
 
-/**
+
 class Jugador
 {
 	private $nombre;
 
-	public function ___construct ($nombre)
+	public function __construct ($nombre)
 	{
-		$this->nombre = $nombre;
+		$this->Nombre = $nombre;
 	}
 }
-**/
+
 
 while(!feof($archivo))
 {
-	echo fgets($archivo);
+	$arregloJugadores[] = new Jugador(fgets($archivo));
 }
 
 fclose($archivo);
 
+
+echo "<pre>";
+print_r($arregloJugadores);
+echo "</pre>";
 
 ?>
