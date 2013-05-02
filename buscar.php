@@ -21,7 +21,8 @@ class Jugador
 
 while(!feof($archivo))
 {
-	$arregloJugadores[] = new Jugador(fgets($archivo));
+	$nombres = (string) fgets($archivo);
+	$arregloJugadores[] = new Jugador($nombres);
 }
 
 fclose($archivo);
@@ -37,7 +38,6 @@ function buscar($termino)
 
 	foreach ($arregloJugadores as $key => $value)
 	{
-		echo $termino;
 		if($value->Nombre === $termino)
 		{
 			echo "llegue";
