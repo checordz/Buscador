@@ -1,8 +1,7 @@
-
-
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
+	<meta charset="utf-8">
 	<title>
 	</title>
 	<link rel="stylesheet" href="listado.css">
@@ -22,7 +21,8 @@
 	<ul>
 
 <?php 
-
+require_once('./config.php');
+header('Content-Type: text/html; charset=iso-8859-1');
 
 $palabra = $_POST['palabra'];
 
@@ -68,7 +68,7 @@ class Jugador
   foreach ($lineas as $numero => $linea) {
            $numero_de_linea = $numero + 1;
 	
-	    if(strpos($linea,$palabra) !== FALSE){
+
 				$i++;
 				//echo "Se ha encontrado coincidencia.";
 		
@@ -81,7 +81,7 @@ class Jugador
 				//echo $nombre_completo.$lugar_nacimiento.$fecha_nacimiento.$edad.$pais_juega.$liga_juega.$club;
 		//$jugador = "$apellido $nombre";
 				//echo "Linea $numero_de_linea: $linea<br>";
-				}
+				
   // echo "Linea $numero_de_linea: $linea<br>";
 }
 
@@ -125,6 +125,5 @@ function mostrar($Jugadores){
 	</div>
 	</div>
 </body>
-
 
 </html>

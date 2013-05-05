@@ -4,7 +4,9 @@ require_once('./jugadores.php');
 
 $id = $_GET['id'];
 
+
 //$dato = $arregloJugadores[0]->nombre;
+
 echo $arregloJugadores[$id]->nombre."<br />";
 echo $arregloJugadores[$id]->lugar."<br />";
 echo $arregloJugadores[$id]->edad."<br />";
