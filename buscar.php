@@ -46,7 +46,7 @@ class Jugador
 
 	public function __construct ($nombre,$nacimiento, $fecha, $edad, $pais, $liga, $club, $id)
 	{
-		
+
 		$this->nombre = $nombre;
 		$this->lugar = $nacimiento;
 		$this->fecha = $fecha;
@@ -63,29 +63,49 @@ class Jugador
 
 	$archivo=fopen("jugadores.txt","r") or
 			die("El archivo no se pudo abrir.");
+<<<<<<< HEAD
 		
+=======
+
+>>>>>>> cambios
     $coincidencias[] = new StdClass;
 	$i=0;
 	$lineas = file('jugadores.txt');
   foreach ($lineas as $numero => $linea) {
            $numero_de_linea = $numero + 1;
+<<<<<<< HEAD
 	
 
 				$i++;
 				//echo "Se ha encontrado coincidencia.";
 		
+=======
+
+
+				$i++;
+				//echo "Se ha encontrado coincidencia.";
+
+>>>>>>> cambios
 				if(strpos($linea, $palabra))
 				{
 				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $linea);
 				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
 				}
+<<<<<<< HEAD
 				
+=======
 
-			
+
+>>>>>>> cambios
+
 				//echo $nombre_completo.$lugar_nacimiento.$fecha_nacimiento.$edad.$pais_juega.$liga_juega.$club;
 		//$jugador = "$apellido $nombre";
 				//echo "Linea $numero_de_linea: $linea<br>";
+<<<<<<< HEAD
 				
+=======
+
+>>>>>>> cambios
   // echo "Linea $numero_de_linea: $linea<br>";
 }
 
