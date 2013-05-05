@@ -44,7 +44,7 @@ class Jugador
 	private $liga;
 	private $club;*/
 
-	public function __construct ($nombre,$nacimiento, $fecha, $edad, $pais, $liga, $club)
+	public function __construct ($nombre,$nacimiento, $fecha, $edad, $pais, $liga, $club, $id)
 	{
 		
 		$this->nombre = $nombre;
@@ -54,6 +54,7 @@ class Jugador
 		$this->pais = $pais;
 		$this->liga = $liga;
 		$this->club = $club;
+		$this->id = $id;
 	}
 }
 
@@ -72,10 +73,12 @@ class Jugador
 				$i++;
 				//echo "Se ha encontrado coincidencia.";
 		
-
-				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club) = explode( "\t", $linea);
-
-				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club);
+				if(strpos($linea, $palabra))
+				{
+				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club,$id) = explode( "\t", $linea);
+				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club,$id);
+				}
+				
 
 			
 				//echo $nombre_completo.$lugar_nacimiento.$fecha_nacimiento.$edad.$pais_juega.$liga_juega.$club;
@@ -100,10 +103,12 @@ function mostrar($Jugadores){
 
 	foreach ($Jugadores as $key => $jugador)
 	{
+		$ID = (string)$jugador->id;
+		echo $ID;
     //  $argumento = urlencode(serialize($jugador));
       print "<li>";
      // print "<a href='detalle.php?id=".$key."&".$argumento."'>";
-      print "<a href='detalle.php?id=".$key."'>";
+      print "<a href='detalle.php?id=".$ID."'>";
 
       print $jugador->nombre;
       print "</a>";
