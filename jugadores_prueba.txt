@@ -1,0 +1,644 @@
+Lista de jugadores para el proyecto de Seminario II
+Nombre Completo	Lugar de nacimiento	Fecha de nacimiento	Edad	País donde juega	Liga donde juega	Club
+Lionel Andrés Messi Cuccittini	"Rosario, Argentina"	24 de junio de 1987	25	España	Liga BBVA	Barcelona
+Cristiano Ronaldo dos Santos Aveiro	"Funchal, Madeira, Portugal"	5 de febrero de 1985	28	España	Liga BBVA	Real Madrid
+Gianluigi Buffon	"Carrara, Italia"	28 de enero de 1978	35	Italia	Serie A	Juventus
+Iker Casillas Fernández	"Madrid, España"	20 de mayo de 1981	31	España	Liga BBVA	Real Madrid
+Andrés Iniesta Luján	"Fuentealbilla, Albacete, España"	11 de mayo de 1984	28	España	Liga BBVA	Barcelona
+Xavier Hernández Creus	"Tarrasa, Barcelona"	25 de enero de 1980	33	España	Liga BBVA	Barcelona
+Andrea Pirlo	"Flero, Provincia de Brescia, Italia"	19 de mayo de 1979	33	Italia	Serie A	Juventus
+Radamel  Falcao García Zárate	"Santa Marta, Magdalena,"	10 de febrero de 1986	27	España	Liga BBVA	Atlético de Madrid
+Carles Puyol i Saforcada	"Puebla de Segur, Lérida, España"	13 de abril de 1978	34	España	Liga BBVA	Barcelona
+Xabier Alonso Olana	"Tolosa, Guipúzcoa, España"	25 de noviembre de 1981	31	España	Liga BBVA	Real Madrid
+Francesco Totti	"Roma, Italia"	27 de septiembre de 1976	36	Italia	Serie A	AS ROMA
+Ricardo Izecson dos Santos Leite	"n. Gama, DF"	22 de abril de 1982	30	España	Liga BBVA	Real Madrid
+Ryan Giggs	"Cardiff, Gales"	29 de noviembre de 1973	39	Inglaterra	Premier League	Mnchester United
+John Terry	"Londres, Reino Unido"	7 de diciembre de 1980	32	Inglaterra	Premier League	Chelsea
+Franck Bilal Ribéry	"Boulogne-sur-Me, Francia"	7 de abril de 1983	30	Alemania	Bundesliga	FC Bayern München
+Steven Gerard	"Liverpool, Inglaterra"	30 de mayo de 1980	32	Inglaterra	Premier League	Liverpool
+Massimo Ambrosini	"Pésaro, Italia"	29 de mayo de 1977	35	Italia	Serie A	AC Milan
+Frank Lampard	"Londres, Reino Unido"	20 de junio de 1978	34	Inglaterra	Premier League	Chelsea
+Wayne Rooney	"Croxteth, Liverpool, Inglaterra"	22 de octubre de 1985	27	Inglaterra	Premier League	Manchester United
+Róbson de Souza	"São Vicente, Brasil"	25 de enero de 1984	29	Italia	Serie A	AC Milan
+Philipp Lahm	"Múnich, Baviera, Alemania"	11 de noviembre de 1983	29	Alemania	Bundesliga	FC Bayern München
+Arjen Robben	"Bedum, Groninga, Países Bajos"	23 de enero de 1984	29	Alemania	Bundesliga	FC Bayern München
+Ángel di María	"Rosario, Santa Fe, Argentina"	14 de febrero de 1988	25	España	Liga BBVA	Real Madrid
+Petr ?ech	"Pilsen, Checoslovaquia"	20 de mayo de 1982	30	Inglaterra	Premier League	Chelsea
+Ricardo Carvalho	"Amarante, Portugal"	18 de mayo de 1978	34	España	Liga BBVA	Real Madrid
+Sergio Ramos García	"Camas, Sevilla"	30 de marzo de 1986	27	España	Liga BBVA	Real Madrid
+Giorgio Chiellini	"Pisa, Italia"	14 de agosto de 1984	29	Italia	Serie A	Juventus
+Daniel Alves da Silva	"Juazeiro, Bahía, Brasil"	6 de mayo de 1983	29	España	Liga BBVA	Barcelona
+Marcelo Vieira da Silva	"Río de Janeiro, Brasil"	12 de mayo de 1988	24	España	Liga BBVA	Real Madrid
+Gareth Bale	"Cardiff, Gales"	16 de julio de 1989	23	Inglaterra	Premier League	Tottenham
+Javier Aldemar Zanetti	"Buenos Aires, Argentina"	10 de agosto de 1973	39	Italia	Serie A	FC Internazionale Milano
+Mario Balotelli	"Palermo, Italia"	12 de agosto de 1990	22	Italia	Serie A	AC Milan
+Mesut Özi	"Gelsenkirchen, Alemania"	15 de octubre de 1988	24	España	Liga BBVA	Real Madrid
+Christian Abbiati	"Milán, Italia"	8 de julio de 1977	35	Italia	Serie A	AC Milan
+Cesc Fábregas	"Arenys de Mar,1 Barcelona,España"	4 de mayo de 1987	25	España	Liga BBVA	Barcelona
+Gerard Piqué Bernabéu	"Barcelona, España"	2 de febrero de 1987	26	España	Liga BBVA	Barcelona
+Eric Abidal	"Lyon, Francia"	11 de septiembre de 1979	33	España	Liga BBVA	Barcelona
+Yaya Touré	"Sokoura Bouaké, Costa de Marfil"	13 de mayo de 1983	29	Inglaterra	Premier League	Manchester City
+Paul Scholes	"Salford, Inglaterra"	16 de noviembre de 1974	38	Inglaterra	Premier League	Manchester United
+Nicolas Anelka	"Versalles, Francia"	14 de marzo de 1979	34	Italia	Serie A	Juventus
+Ashley Cole	"Londres, Inglaterra"	20 de diciembre de 1980	32	Inglaterra	Premier League	Chelsea
+MIchale Essien	"Accra, Ghana"	3 de diciembre de 1982	30	España	Liga BBVA	Real Madrid
+Luis Suáres	"Salto, Uruguay"	24 de enero de 1987	26	Inglaterra	Premier League	Liverpool
+Robin van Persie	"Róterdam, Países Bajos"	6 de agosto de 1983	29	Inglaterra	Premier League	Manchester United
+David Villa Sánchez	"Tuilla, Asturias, España"	3 de diciembre de 1981	31	España	Liga BBVA	Barcelona
+Gonzálo Gerardo Higuaín	"Finisterre, Francia"	10 de diciembre de 1987	25	España	Liga BBVA	Real Madrid
+Karim Benzema	"Lyon, Francia"	19 de diciembre de 1987	25	España	Liga BBVA	Real Madrid
+Nigel de Jong	"Amsterdam, Países Bajos "	30 de noviembre de 1984	28	Italia	Serie A	AC Milan
+Lukas Podolski	"Gliwice, Polonia"	4 de junio de 1985	27	Inglaterra	Premier League	Arsenal
+Rio Ferdinand	"Londres, Inglaterra"	7 de noviembre de 1978	34	Inglaterra	Premier League	Manchester United
+Víctor Valdés Arribas	"Barcelona, España"	14 de enero de 1982	31	España	Liga BBVA	Barcelona
+Adriano Correia Claro	"Curitiba, Brasil"	26 de octubre de 1984	28	España	Liga BBVA	Barcelona
+Képler Laveran Lima Ferreira	"Maceió, Brasil"	26 de febrero de 1983	30	España	Liga BBVA	Real Madrid
+Maicon Dougla Sisenando	"(Novo Hamburgo, Brasil"	26 de julio de 1981	31	Inglaterra	Premier League	Manchester City
+Esteban Matías Cambiasso Delau	"Buenos Aires, Argentina"	18 de agosto de 1980	32	Italia	Serie A	FC Internazionale Milano
+Daniele Bonera	"Brescia, Italia"	31 de mayo de 1981	31	Italia	Serie A	AC Milan
+Martín Gastón Demichelis	"Córdoba, Argentina"	20 de diciembre de 1980	32	España	Liga BBVA	Málaga
+Ignazio Abate	"Provincia de Benevento, Italia"	12 de noviembre de 1986	26	Italia	Serie A	AC Milan
+Florent Malouda	"Cayenne, Guayana Francesa"	13 de junio de 1980	32	Inglaterra	Premier League	Chelsea
+Joe Hart	"Shrewsbury, Inglaterra"	19 de abril de 1987	25	Inglaterra	Premier League	Manchester City
+Daniel Van Buyten	"Chimay, Bélgica"	7 de febrero de 1978	35	Alemania	Bundesliga	FC Bayern München
+Patrice Evra	"Dakar, Senegal"	15 de mayo de 1981	31	Inglaterra	Premier League	Manchester United
+Wálter Adrían Samuel Luján	"Córdoba, Argentina"	23 de marzo de 1978	35	Italia	Serie A	FC Internazionale Milano
+Álvaro Arbeloa Coca	"Salamanca, España"	17 de enero de 1983	30	España	Liga BBVA	Real Madrid
+Nicolás Andrés  Bursiddo	"Córdoba, Argentina"	12 de abril de 1981	31	Italia	Serie A	AS ROMA
+Phil Neville	"Bury, Inglaterra"	21 de enero de 1977	36	Inglaterra	Premier League	Everton
+William Gallas	"Asnières-sur-Seine, Francia"	17 de agosto de 1977	35	Inglaterra	Premier League	Tottenham
+Paulo Ferreira	"Cascais, Portugal"	18 de enero de 1979	34	Inglaterra	Premier League	Chelsea
+Kolo Habib Touré	"Sokoura Bouaké, Costa de Marfil"	19 de marzo de 1981	32	Inglaterra	Premier League	Manchester City
+Bastian Schweinsteiger	"Rosenheim, Alemania"	28 de agosto de 1984	28	Alemania	Bundesliga	FC Bayern München
+Nemanja Vidi?	"Užice, Serbia"	21 de octubre de 1981	31	Inglaterra	Premier League	Manchester United
+Claudio Miguel Pizarro Bossio	"Callo, Péru"	 3 de octubre de 1978	34	Alemania	Bundesliga	FC Bayern München
+Claudio Marchisio	"Turín, Italia"	19 de enero de 1986	27	Italia	Serie A	Juventus
+Manuel Neuer	"Gelsenkirchen, Alemania"	27 de marzo de 1986	27	Alemania	Bundesliga	FC Bayern München 
+Sami Khedira	"Stuttgart, Alemania"	4 de abril de 1987	26	España	Liga BBVA	Real Madrid
+Javier Alejandro Mascherano	"San Lorenzo, Argentina"	8 de junio de 1984	28	España	Liga BBVA	Barcelona
+Mario Gómez García	"Riedlingen, Alemania"	10 de julio de 1985	27	Alemania	Bundesliga	FC Bayern München
+Simone Pepe	"Albano Laziale, Italia"	30 de agosto de 1983	29	Italia	Serie A	Juventus
+Jesús Navas González	"Sevilla, España"	21 de noviembre de 1985 	27	España	Liga BBVA	Sevilla
+Sergio Busquets	"Barcelona, España"	16 de julio de 1988	24	España	Liga BBVA	Barcelona
+José María Callejón Bueno	"Granada, España"	11 de febrero de 1987	26	España	Liga BBVA	Real Madrid
+Michael Carrick	"Tyneside, Inglaterra"	28 de julio de 1981	31	Inglaterra	Premier League	Manchester United
+Dejan Stankovi?	"Belgrado, Serbia"	11 de septiembre de 1978	34	Italia	Serie A	FC Internazionale Milano
+Philippe Mexès	"Toulouse, Francia"	30 de marzo de 1982	31	Italia	Serie A	AC Milan
+Roque Luis Santa Cruz Cantero	"Asunción, Paraguay"	16 de agosto de 1981	31	España	Liga BBVA	Málaga
+Robert Lewandowski	"Varsovia, Polonia"	21 de agosto de 1988	24	Alemania	Bundesliga	Borussia Dortmund
+Neven Suboti?	Bosnia y Herzegovina	10 de diciembre de 1988	24	Alemania	Bundesliga	Borussia Dortmund
+Holger Badstuber	"Memmingen, Alemania"	13 de marzo de 1989	24	Alemania	Bundesliga	FC Bayern München
+Roman Weidenfeller	"Dietz, Alemania"	6 de agosto de 1980	32	Alemania	Bundesliga	Borussia Dortmund
+Daniele De Rossi	"Roma, Italia"	 24 de julio de 1983	29	Italia	Serie A	AS Roma
+Maarten Stekelenburg	"Haarlem, Países Bajos"	22 de septiembre de 1982	30	Italia	Serie A	AS Roma
+John Riise	"Ålesund, Noruega"	24 de septiembre de 1980 	32	Inglaterra	Premier League	Fulham
+Emmanuel Adebayor	"Lomé, Togo"	26 de febrero de 1984	29	Inglaterra	Premier League	Tottenham
+Antonio Cassano	"Bari, Italia"	12 de julio de 1982	30	Italia	Serie A	FC Internazionale Milano
+Jérémy Toulalan	"Nantes, Francia"	10 de septiembre de 1983	29	España	Liga BBVA	Málaga
+Dimitar Berbatov	"Blagoevgrad, Bulgaria"	30 de enero de 1981	32	Inglaterra	Premier League	Fulham
+Simone Perrota	"Ashton-under-Lyne, Inglaterra"	17 de septiembre de 1977 	35	Italia	Serie A	AS Roma
+Javier Pedro Saviola Fernández	"Buenos Aires, Argentina"	11 de diciembre de 1981	31	España	Liga BBVA	Málaga
+Marco Reus	"Dortmund, Alemania"	31 de mayo de 1989	23	Alemania	Bundesliga	Borussia Dortmund
+Jamie Carragher	"Merseyside, Reino Unido"	28 de enero de 1978	35	Inglaterra	Premier League	Liverpool
+Pepe Reina	"Madrid, España"	31 de agosto de 1982	30	Inglaterra	Premier League	Liverpool
+Samir Nasri	"Marsella, Francia"	26 de junio de 1987	25	Inglaterra	Premier League	Manchester City
+Carlos Tévez	"Barrio Ejército de los Andes, Argentina"	 5 de febrero de 1984	29	Inglaterra	Premier League	Manchester City
+Mario Götze	"Memmingen, Alemania"	3 de junio de 1992	20	Alemania	Bundesliga	Borussia Dortmund
+Anatoliy Tymoshchuk	"Lutsk, Unión Soviética"	30 de marzo de 1979	34	Alemania	Bundesliga	FC Bayern München
+Cristian Eugen Chivu 	"Re?i?a, Rumania"	26 de octubre de 1980	32	Italia	Serie A	FC Internazionale Milano
+Fabio Quagliarella	"Nápoles, Italia"	31 de enero de 1983	30	Italia	Serie A	Juventus
+Christoph Metzelder	"Haltern, Alemania"	5 de noviembre de 1980	32	Alemania	Bundesliga	FC Schalke 04
+Fábio Coentrão	"Vila do Conde, Portugal"	11 de marzo de 1988	25	España	Liga BBVA	Real Madrid
+Mats Hummels	"Bergisch Gladbach, Alemania"	16 de diciembre de 1988	24	Alemania	Bundesliga	Borussia Dortmund
+Mirko Vu?ini?	"Nikši?, Montenegro"	1 de octubre de 1983	29	Italia	Serie A	Juventus
+José Martín Cáceres Silva	"Montevideo, Uruguay"	7 de abril de 1987	26	Italia	Serie A	Juventus
+Fernando José Torres Sanz	" Madrid, España"	20 de marzo de 1984	29	Inglaterra	Premier League	Chelsea
+Andrea Barzagli	"Fiesole, Italia"	8 de mayo de 1981	31	Italia	Serie A	Juventus
+Roberto Soldado Nillo	"Gandía, Valencia"	27 de mayo de 1985	27	España	Liga BBVA	Valencia
+Toni Kroos	"Greifswald, Alemania"	 4 de enero de 1990	23	Alemania	Bundesliga	FC Bayern München
+Stefan Kießling	"Lichtenfels, Alemania"	25 de enero de 1984	29	Alemania	Bundesliga	Bayern Leverkusen
+Yossi Shai Benayoun	"Dimona, Israel"	5 de mayo de 1980	32	Inglaterra	Premier League	Chelsea
+Leonardo Bonucci	"Viterbo, Italia"	1 de mayo de 1987	25	Italia	Serie A	Juventus
+Mario Alberto Yepes Díaz	"Cali, Valle del Cauca, Colombia"	13 de enero de 1976	37	Italia	Serie A	AC Milan
+Raúl Albiol Tortajada	"Valencia, España"	4 de septiembre de 1985	27	España	Liga BBVA	Real Madrid
+Diego Alberto Milito	"Bernal, Argentina"	12 de junio de 1979	33	Italia	Serie A	FC Internazionale Milano
+Kevin-Prince Boateng	"Acra, Ghana"	6 de marzo de 1987	26	Italia	Serie A	AC Milan
+Stephan Lichtsteiner	"Adligenswil, Suiza"	16 de enero de 1984	29	Italia	Serie A	Juventus
+Jordi Alba Ramos	"Barcelona, España"	21 de marzo de 1989	24	España	Liga BBVA	Barcelona
+Luca Antonini	"Milán, Italia"	4 de agosto de 1982	30	Italia	Serie A	AC Milan
+Tiago Cardoso Mendes	"Viana do Castelo, Portugal"	 2 de mayo de 1981	31	España	Liga BBVA	Atlético de Madrid
+Gaël Clichy	"Toulouse, Francia"	26 de julio de 1985	27	Inglaterra	Premier League	Manchester City
+Jérôme Boateng	"Berlín, Alemania"	3 de septiembre de 1988	24	Alemania	Bundesliga	FC Bayern München
+Shinji Kagawa	"Kobe, Japón"	17 de marzo de 1989	24	Inglaterra	Premier League	Manchester United
+Diego López Rodríguez	"Paradela, España"	3 de noviembre de 1981	31	España	Liga BBVA	Real Madrid
+Hugo Lloris	"Niza, Francia"	26 de diciembre de 1986	26	Inglaterra	Premier League	Tottenham
+Arturo Erasmo Vidal Pardo	"Santiago, Chile"	22 de mayo de 1987	26	Italia	Serie A	Juventus
+David Silva      	"Las Palmas, España"	8 de enero de 1986	27	Inglaterra	Premier League	Manchester City
+Pablo Javier Zabaleta Girod	"Buenos Aires, Argentina"	16 de enero de 1985	28	Inglaterra	Premier League	Manchester City
+Giampaolo Pazzini	"Pistoia, Italia"	2 de agosto de 1984	28	Italia	Serie A	AC Milan
+Manuel Friedrich	"Bad Kreuznach, Alemania"	13 de septiembre de 1979	33	Alemania	Bundesliga	Bayern Leverkusen
+Sergio Agüero	"Quilmes, Argentina"	2 de junio de 1988	24	Inglaterra	Premier League	Manchester City
+Juan Manuel Mata García	"Burgos, España"	28 de abril de 1988	24	Inglaterra	Premier League	Chelsea
+Luka Modri?	"Zadar, Croacia"	9 de septiembre de 1985	27	España	Liga BBVA	Real Madrid
+Sebastian Kehl	"Fulda, Alemania"	13 de febrero de 1980	33	Alemania	Bundesliga	Borussia Dortmund
+Marcel Schmelzer	"Magdeburgo, Alemania"	 22 de enero de 1988	25	Alemania	Bundesliga	Borussia Dortmund
+Stephan El Shaarawy	"Savona, Italia"	27 de octubre de 1992	20	Italia	Serie A	AC Milan
+Jakub B?aszczykowski	"Cz?stochowa, Polonia"	14 de diciembre de 1985	27	Alemania	Bundesliga	Borussia Dortmund
+Alexandre Song	"Douala, Camerún"	9 de septiembre de 1987	25	España	Liga BBVA	Barcelona
+Mahamadou Diarra	"Bamako, Malí"	18 de mayo de 1981	31	Inglaterra	Premier League	Fulham
+Per Mertesacker	"Hannover, Alemania"	29 de septiembre de 1984	28	Inglaterra	Premier League	Arsenal
+Thiago Alcântara	"Brindisi, Italia"	11 de abril de 1991	22	España	Liga BBVA	Barcelona
+Mathieu Flamini	"Marsella, Francia"	7 de marzo de 1984	29	Italia	Serie A	AC Milan
+Damien Duff	"Dublín, Irlanda"	2 de marzo del año 1979	34	Inglaterra	Premier League	Fulham
+Joan Capdevila Méndez	"Lérida, España"	 3 de febrero de 1978	35	España	Liga BBVA	Espanyol
+Diego Alfredo Lugano Morena	"Canelones, Uruguay"	2 de noviembre de 1980	32	España	Liga BBVA	Málaga
+Philippe Senderos	"Ginebra, Suiza"	14 de febrero de 1985	28	Inglaterra	Premier League	Fulham
+Alexis Alejandro Sánchez Sánchez	"Tocopilla, Chile"	19 de diciembre de 1988	24	España	Liga BBVA	Barcelona
+Michel Fernandes Bastos	"Pelotas, Brasil"	2 de agosto de 1983	29	Alemania	Bundesliga	FC Schalke 04
+Theo Walcott	"Stanmore, Londres"	16 de marzo de 1989	24	Inglaterra	Premier League	Arsenal
+Antonio Nocerino	"Nápoles, Italia"	 9 de abril de 1985	28	Italia	Serie A	AC Milan
+Sven Bender	"Rosenheim, Alemania"	27 de abril de 1989	23	Alemania	Bundesliga	Borussia Dortmund
+Álvaro Daniel Pereira Barragán	"Montevideo, Uruguay"	28 de noviembre de 1985	27	Italia	Serie A	FC Internazionale Milano
+Ibrahim Afellay	"Utrecht, Netherlands"	02 de abril de 1986	27	Alemania	Bundesliga	FC Schalke 04
+Paolo De Ceglie	"Aosta, Italia"	17 de septiembre de 1986	26	Italia	Serie A	Juventus
+Pedro Eliezer Rodríguez Ledesma	"Santa Cruz de Tenerife, España"	28 de julio de 1987	25	España	Liga BBVA	Barcelona
+Andrea Ranocchia	"Assisi, Italia"	16 de febrero de 1988	25	Italia	Serie A	FC Internazionale Milano
+Vincent Kompany	"Ucle, Brussels, Bélgica"	10 de abril de 1986	26	Inglaterra	Premier League	Manchester City
+Thomas Vermaelen	"Kapellen, Bélgica"	14 de noviembre de 1985	27	Inglaterra	Premier League	Arsenal
+Luis Gustavo Dias	"Pindamonhangaba, Brasil"	23 de julio de 1987	25	Alemania	Bundesliga	FC Bayern München
+Raphaël Varane	"Lille, Francia"	25 de abril de 1993	19	España	Liga BBVA	Real Madrid
+Javier Hernández Balcázar	"Guadalajara, Jalisco"	01 de junio de 1988	24	Inglaterra	Premier League	Manchester United
+Danny Welbeck	"Manchester, Inglaterra"	26 de noviembre de 1990	22	Inglaterra	Premier League	Manchester United
+Stewart Downing	"Middlesbrough, Inglaterra"	22 de julio de 1984	28	Inglaterra	Premier League	Liverpool
+José Antonio Reyes Calderón	"Utrera, España"	01 de septiembre de 1983	29	España	Liga BBVA	Sevilla
+Simão Pedro Fonseca  Sabrosa	"Villa Real, Portugal"	31 de octubre de 1979	33	España	Liga BBVA	Espanyol
+Gary Alexis Medel Soto	"Santiago, Chile"	03 de agosto de 1987	25	España	Liga BBVA	Sevilla
+Kwadwo Asamoah	"Accra, Ghana"	09 de diciembre de 1988	24	Italia	Serie A	Juventus
+Tim Howard	"North Brunswick, Nueva Jersey, Estados Unidos"	06 de marzo de 1979	34	Reino Unido	Premier League	Everton
+Pablo Daniel Osvaldo	"Buenos Aires, Argentina"	12 de enero de 1986	27	Italia	Serie A	AS Roma
+Jermain Defoe	"Beckton, Londres, Inglaterra"	07 de octubre de 1982	30	Inglaterra	Premier League	Tottenham
+Riccardo Montolivo	"Caravaggio, Provincia de Bérgamo, Italia"	18 de enero de 1985	28	Italia	Serie A	AC Milan
+Tomáš Rosický	"Praga, República Checa"	04 de octubre de 1980	32	Inglaterra	Premier League	Arsenal
+Brad Friedel	"Lakewood, Ohio, Estados Unidos"	18 de mayo de 1971	41	Inglaterra	Premier League	Tottenham
+Luís Carlos Almeida da Cunha	"Praia, Cabo Verde"	17 de noviembre de 1986	26	Inglaterra	Premier League	Manchester United
+Sandro Ranieri	"Riachinho, Minas Gerais, Brasil"	15 de marzo de 1989	24	Inglaterra	Premier League	Tottenham
+Ramires Santos do Nascimento	"Barra do Piraí, Brasil"	24 de marzo de 1987	26	Inglaterra	Premier League	Chelsea
+Fredy Alejandro  Guarín  Vásquez	"Puerto Boyacá, Colombia"	30 de junio de 1986	26	Italia	Serie A	FC Internazionale Milano
+Nelson Antonio Haedo Valdéz	"San Joaquín, Departamento de Caaguazú"	28 de noviembre de 1983	29	España	Liga BBVA	Valencia
+Martin Petrov	"Vratsa, Bulgaria"	15 de enero de 1979	34	España	Liga BBVA	Espanyol
+Gonzalo Castro Randon	"Wuppertal, Alemania"	11 de junio de 1987	25	Alemania	Bundesliga	Bayern Leverkusen
+André Schürrle	"Ludwigshafen, Renania-Palatinado, Alemania"	06 de noviembre de 1960	22	Alemania	Bundesliga	Bayern Leverkusen
+Klaas-Jan Huntelaar	"Voor-Drempt, Güeldres, Países Bajos"	12 de agosto de 1983	29	Alemania	Bundesliga	FC Schalke 04
+Jonas Gonçalves Oliveira	"Bebedouro, Brasil"	01 de abril de 1984	29	España	Liga BBVA	Valencia
+David Luiz Moreira Marinho	"Diadema, São Paulo, Brasil"	22 de abril de 1987	25	Inglaterra	Premier League	Chelsea
+Kevin Großkreutz 	"Dortmund, Alemania"	19 de julio de 1988	24	Alemania	Bundesliga	Borussia Dortmund
+Sulley Ali Muntari	"Kokongo, Ghana"	27 de agosto de 1984	28	Italia	Serie A	AC Milan
+Luis Antonio Valencia Mosquera	"Nueva Loja, Ecuador"	04 de agosto de 1985	27	Inglaterra	Premier League	Manchester United
+Alessandro Matri	"Sant'Angelo Lodigiano, Italia"	19 de agosto de 1984	28	Italia	Serie A	Juventus
+Emanuele Giaccherini	"Bibbiena, Italia."	05 de mayo de 1985	27	Italia	Serie A	Juventus
+Nuri ?ahin	"Lüdenschield, Alemania."	05 de septiembre de 1988	24	Alemania	Bundesliga	Borussia Dortmund
+Márcio Rafael Ferreira de Souza	"Londrina, Brasil"	07 de septiembre de 1985	27	Alemania	Bundesliga	FC Bayern München
+Aaron Lennon	"Chapeltown, Leeds, Inglaterra"	16 de abril de 1987	25	Inglaterra	Premier League	Tottenham
+Diego Roberto Godín Leal	"Rosario, Uruguay"	16 de febrero de 1986	27	España	Liga BBVA	Atlético de Madrid
+Glen Johnson	"Greenwich, Londres, Inglaterra"	23 de agosto de 1984	28	Inglaterra	Premier League	Liverpool
+Tommaso Rocchi	"Venecia, Italia"	19 de septiembre de 1977	35	Italia	Serie A	FC Internazionale Milano
+Thomas Müller	"Weilheim in Oberbayern, Baviera, Alemania"	13 de septiembre de 1989	23	Alemania	Bundesliga	FC Bayern München
+Simos Rolfes	"Ibbenbüren, Alemania"	21 de enero de 1982	31	Alemania	Bundesliga	Bayern Leverkusen
+Aly Cissokho	"Blois, Francia"	15 de septiembre de 1987	25	España	Liga BBVA	Valencia
+Jefferson Agustin Farfán Guadalupe	"Lima, Perú"	26 de octubre de 1984	28	Alemania	Bundesliga	FC Schalke 04
+Urby Emanuelson	"Ámsterdam, Países Bajos"	16 de junio de 1986	26	Inglaterra	Premier League	Fulham
+Álvaro Negredo Sánchez	"Madrid, España"	20 de agosto de 1985	27	España	Liga BBVA	Sevilla
+Rodrigo Sebastián Palacio	"Bahía Blanca, Argentina"	05 de febrero de 1982	31	España	Serie A	FC Internazionale Milano
+Lars Bender	"Rosenheim, Alemania"	27 de abril de 1989	23	Alemania	Bundesliga	Bayern Leverkusen
+Thibaut Courtois	"Bree, Provincia de Limburgo, Bélgica"	11 de mayo de 1992	20	España	Liga BBVA	Atlético de Madrid
+Stefan Reinartz	"Engelskirchen, Alemania"	01 de enero de 1989	24	Alemania	Bundesliga	Bayern Leverkusen
+Ashley Young	"Stevenage, Inglaterra"	09 de julio de 1985	27	Inglaterra	Premier League	Manchester United
+Daniel Agger	"Hvidovre, Copenhague, Dinamarca"	12 de diciembre de 1984	28	Inglaterra	Premier League	Liverpool
+David Olatukunbo Alaba	"Viena, Austria"	24 de junio de 1992	20	Alemania	Bundesliga	FC Bayern München
+José Andrés Guardado Hernández	"Guadalajara, México"	28 de septiembre de 1986	26	España	Liga BBVA	Valencia
+Mark Schwarzer	"Sídney, Australia"	06 de noviembre de 1972	40	Inglaterra	Premier League	Fulham
+Edin Džeko	"Sarajevo, Bosnia y Herzegovina"	17 de marzo de 1986	27	Inglaterra	Premier League	Manchester City
+Benedikt Höwedes	"Haltern, Alemania"	29 de febrero de 1988	25	Alemania	Bundesliga	FC Schalke 04
+Jérémy Mathieu	"Luxeuil-les-Bains, Francia"	29 de octubre de 1983	29	España	Liga BBVA	Valencia
+Mikel Arteta Amatriain	"San Sebastián, España"	26 de marzo de 1982	31	Inglaterra	Premier League	Arsenal
+Jack Wilshere	"Hertfordshire, Inglaterra"	01 de enero de 1992	21	Inglaterra	Premier League	Arsenal
+Jermaine Jones	"Francfort del Meno, Alemania"	03 de noviembre de 1981	31	Alemania	Bundesliga	FC Schalke 04
+Timo Hildebrand	"Worms, Alemania"	05 de abril de 1979	34	Alemania	Bundesliga	FC Schalke 04
+José Enrique de la Sánchez Diaz	"Valencia, España"	23 de enero de 1986	27	Inglaterra	Premier League	Liverpool
+Javier Martínez Aginaga 	"Ayegui, Estella, Navarra, España"	02 de septiembre de 1988	24	Alemania	Bundesliga	FC Bayern München
+Cristian Zaccardo	"Formigine, Italia"	21 de diciembre de 1981	31	Italia	Serie A	AC Milan
+Fernando Navarro i Corbacho	"Barcelona, España"	25 de junio de 1982	30	España	Liga BBVA	Sevilla
+Scott Parker	"Lambeth, Inglaterra"	13 de octubre de 1980	32	Inglaterra	Premier League	Tottenham
+Julian Schieber	"Backnang, Alemania"	13 de febrero de 1989	24	Alemania	Bundesliga	Borussia Dortmund
+Moussa Dembélé	"Wilrijk, Bélgica"	16 de julio de 1987	25	Inglaterra	Premier League	Tottenham
+Joleon Lescott	"Birmingham, Inglaterra"	16 de agosto de 1982	30	Inglaterra	Premier League	Manchester City
+Dante Bonfim da Costa Santos	"Salvador, Bahía, Brasil"	18 de octubre de 1983	29	Alemania	Bundesliga	FC Bayern München
+Felipe Augusto Santana	"Rio Claro, Brasil"	17 de marzo de 1986	27	Alemania	Bundesliga	Borussia Dortmund
+Piotr Trochowski	"Tczew, Polonia"	22 de marzo de 1984	29	España	Liga BBVA	Sevilla
+David de Gea Quintana	"Madrid, España"	07 de noviembre de 1990	22	Inglaterra	Premier League	Manchester United
+Oscar dos Santos  Emboada Júnior	"Americana, Brasil"	09 de septiembre de 1991	21	Inglaterra	Premier League	Chelsea
+Mattia De Sciglio	"Milán, Italia"	20 de octubre de 1992	20	Italia	Serie A	AC Milan
+Filipe Luis Kasmirski	"Jaraguá do Sul, Brasil"	09 de agosto de 1985	27	España	Liga BBVA	Atlético de Madrid
+Héctor Alfredo Moreno Hererra	"Culiacán, Sinaloa, México"	17 de enero de 1988	25	España	Liga BBVA	Espanyol
+Francisco Javier García  Fernández	"Mula (Murcia), España"	08 de febrero de 1987	26	Inglaterra	Premier League	Manchester City
+Darron Gibson	"Derry, Ulster, Irlanda del Norte"	25 de octubre de 1987	25	Reino Unido	Premier League	Everton
+Bakaye Traoré	"Bondy, Sena-Saint Denis, Francia"	06 de marzo de 1985	28	Italia	Serie A	AC Milan
+Juan Daniel Forlín	"Santa Fe, Reconquista, Argentina"	10 de enero de 1988	25	España	Liga BBVA	Espanyol
+Adil Rami	"Bastia, Francia"	27 de diciembre de 1985	27	España	Liga BBVA	Valencia
+Ivan Rakiti?	"Rheinfelden, Suiza"	10 de marzo de 1988	25	España	Liga BBVA	Sevilla
+Cristian Eduardo Zapata Valencia	"Padilla, Colombia"	30 de septiembre de 1986	26	Italia	Serie A	AC Milan
+Steven Pienaar	"Johannesburgo, Sudáfrica"	17 de marzo de 1982	31	Reino Unido	Premier League	Everton
+Abou Diaby	"París, Francia"	11 de mayo de 1986	26	Inglaterra	Premier League	Arsenal
+Bacary Sagna	"Sens, Francia"	14 de febrero de 1983	30	Inglaterra	Premier League	Arsenal
+Júlio César Clement Baptista	"São Paulo, Brasil"	01 de octubre de 1981	31	España	Liga BBVA	Málaga
+Sebastian Giovinco	"Turín, Italia"	26 de enero de 1987	26	Italia	Serie A	Juventus
+Matías Agustín Silvestre	"Mercedes, Argentina"	25 de septiembre de 1984	28	Italia	Serie A	FC Internazionale Milano
+Christian Fuchs	"Neunkirchen, Austria"	07 de abril de 1986	27	Alemania	Bundesliga	FC Schalke 04
+Simone Padoin	"Gemona del Friuli, Italia"	18 de marzo de 1984	29	Italia	Serie A	Juventus
+Andrés Palop Cervera	"La Alcudia, Valencia, España"	22 de octubre de 1973	39	España	Liga BBVA	Sevilla
+?ukasz Piszczek	"Czechowice-Dziedzice, Polonia"	03 de junio de 1985	27	Alemania	Bundesliga	Borussia Dortmund
+Bojan Krkíc Pérez	"Liñola, Lérida, España"	28 de agosto de 1980	22	España	Serie A	AC Milan
+Peniel Kokou Mlapa	"Lomé, Togo"	20 de febrero de 1991	22	Alemania	Bundesliga	Borussia Mönchengladbach
+Joël Job Matip	"Bochum, Germany"	08 de agosto de 1991	21	Alemania	Bundesliga	FC Schalke 04
+David Albelda Aliqués	"La Pobla Llarga, Valencia, España"	01 de septiembre de 1977	35	España	Liga BBVA	Valencia
+Arda Turan	"Estambul, Turquía"	30 de enero de 1987	26	España	Liga BBVA	Atlético de Madrid
+Mladen Petri?	"Br?ko, Bosnia Herzegovina"	01 de enero de 1981	32	Inglaterra	Premier League	Fulham
+Giorgios Karagounis	"Pirgos, Grecia"	06 de marzo de 1977	36	Inglaterra	Premier League	Fulham
+Andrey Arshavin	"Leningrado, Unión Soviética"	29 de mayo de 1981	31	Inglaterra	Premier League	Arsenal
+Olivier Giroud	"Chambéry, Francia"	30 de septiembre de 1986	26	Inglaterra	Premier League	Arsenal
+Tom Starke	"Dresden, Alemania"	18 de marzo de 1981	32	Alemania	Bundesliga	FC Bayern München
+Diego Da Silva Costa	"Lagarto, Brasil"	07 de octubre de 1988	24	España	Liga BBVA	Atlético de Madrid
+Diego Alves Carreira	"Río de Janeiro, Brasil"	24 de junio de 1985	27	España	Liga BBVA	Valencia
+Arouna Koné	"Ányama, Costa de Marfil"	11 de noviembre de 1983	29	Inglaterra	Premier League	Wigan Athletic
+Tony Jantschke	"Hoyerswerda, Alemania"	07 de abril de 1990	23	Alemania	Bundesliga	Borussia Mönchengladbach
+Alberto Facundo Costa	"Las Flores, Prov. Buenos Aires, Argentina"	09 de enero de 1985	28	España	Liga BBVA	Valencia
+Raúl García Escudero	"Pamplona (Navarra), España"	11 de julio de 1986	26	España	Liga BBVA	Atlético de Madrid
+João Pedro da Silva Pereira	"Lisboa, Portugal"	25 de febrero de 1984	29	España	Liga BBVA	Valencia
+Juan Fernando Arango Sáenz	"Maracay, Venezuela"	17 de mayo de 1980	32	Alemania	Bundesliga	Borussia Mönchengladbach
+Mauricio Aníbal Isla  Isla	"Buin, Chile"	12 de junio de 1988	24	Italia	Serie A	Juventus
+Rodrigo Ferrante Taddei	"San Pablo, Brasil"	06 de marzo de 1980	33	Italia	Serie A	AS Roma
+Aleksandar Kolarov	"Zemun, Yugoslavia"	10 de noviembre de 1985	27	Inglaterra	Premier League	Manchester City
+Benoît Assou-Ekotto	"Arras, Francia"	24 de marzo de 1984	29	Inglaterra	Premier League	Tottenham
+Xavier Prieto Argarate	"San Sebastián, Guipúzcoa, España"	29 de agosto de 1983	29	España	Liga BBVA	Real Sociedad
+Samir Handanovi?	"Liubliana, República Federal Popular de Yugoslavia"	14 de julio de 1984	28	Italia	Serie A	FC Internazionale Milano
+Santiago Cazorla González	"Lugo de Llanera, Asturias, España"	13 de septiembre de 1984	28	Inglaterra	Premier League	Arsenal
+Walter Alejandro Gargano Guevara	"Paysandú, Uruguay"	23 de julio de 1984	28	Italia	Serie A	FC Internazionale Milano
+Mario Mandžuki?	"Slavonski Brod, Croacia"	21 de mayo de 1986	26	Alemania	Bundesliga	FC Bayern München
+Yuto Nagatomo	"Saij?, Japón"	12 de septiembre de 1986	26	Italia	Serie A	FC Internazionale Milano
+Miralem Pjani?	"Tuzla, Bosnia"	02 de abril de 1990	23	Inglaterra	Serie A	AS Roma
+Michal Kadlec	"Vyškov, República Checa"	13 de diciembre de 1984	28	Alemania	Bundesliga	Bayern Leverkusen
+Sofiane Feghouli	"Levallois-Perret, Francia"	26 de diciembre de 1989	23	España	Liga BBVA	Valencia
+Joaquín Sánchez Rodríguez	"El Puerto de Santa María, España"	21 de julio de 1981	31	España	Liga BBVA	Málaga
+Nicklas Bendtner	"Copenhague, Dinamarca"	16 de enero de 1988	25	Italia	Serie A	Juventus
+Anderson Luis de Abreu Oliveira	"Porto Alegre, Brasil"	13 de abril de 1988	24	Inglaterra	Premier League	Manchester United
+Rafael Pereira Da Silva	"Petrópolis, Río de Janeiro, Brasil"	09 de julio de 1990	22	Inglaterra	Premier League	Manchester United
+Ricardo Miguel Moreira da  Costa	"Vila Nova de Gaia, Portugal"	16 de mayo de 1981	31	España	Liga BBVA	Valencia
+João Miranda de Souza Filho	"Paranavaí, Brasil"	07 de septiembre de 1984	28	España	Liga BBVA	Atlético de Madrid
+Cristian Gabriel Rodríguez Barrotti	"Juan Lacaze, Uruguay"	30 de septiembre de 1985	27	España	Liga BBVA	Atlético de Madrid
+Federico Balzaretti	"Turín, Italia"	06 de diciembre de 1981	31	Italia	Serie A	AS Roma
+Hedwiges Maduro	"Almere, Países Bajos"	12 de febrero de 1985	28	España	Liga BBVA	Sevilla
+Marco Höger	"Colonia, Alemania"	16 de septiembre de 1989	23	Alemania	Bundesliga	FC Schalke 04
+Álvaro Domínguez Soto	"Madrid, España"	16 de mayo de 1989	23	Alemania	Bundesliga	Borussia Mönchengladbach
+Håvard Nordtveit	Håvard Nordtveit	21 de junio de 1990	22	Alemania	Bundesliga	Borussia Mönchengladbach
+IIkay Gündogan	"Gelsenkirchen, Alemania"	24octubre de 1990	22	Alemania	Bundesliga	Borussia Dortmund
+Xherdan Shaqiri	"Gnjilane, Yugoslavia"	10 de octubre de 1991	21	Alemania	Bundesliga	FC Bayern München
+Ciprian Marica	"Bucarest, Rumania"	02 de octubre de 1986	27	Alemania	Bundesliga	FC Schalke 04
+Clint Dempsey	"Nacogdoches, Estados Unidos"	09 de marzo de 1983	30	Inglaterra	Premier League	Tottenham
+Daniel Alberto Díaz	"San Fernando del Valle de Catamarca, Argentina"	13 de julio de 1979	33	España	Liga BBVA	Atlético de Madrid
+Alberto de la Bella Madureño	"Santa Coloma de Gramanet, España"	02 de diciembre de 1985	27	España	Liga BBVA	Real Sociedad
+Mike Hanke	"Hamm, Alemania"	05 de noviembre de 1983	29	Alemania	Bundesliga	Borussia Mönchengladbach
+Patrick Owomoyela	"Hamburgo, Alemania"	05 de noviembre de 1979	33	Alemania	Bundesliga	Borussia Dortmund
+Juan Francisco Torres Belén	"Crevillente, Alicante, España"	09 de enero de 1985	28	España	Liga BBVA	Atlético de Madrid
+Marouane Fellaini	"Etterbeek, Bélgica"	22 de noviembre de 1987	25	Reino Unido	Premier League	Everton
+Adrián López Álvarez	"Teverga, Asturias, España"	08 de enero de 1988	25	España	Liga BBVA	Atlético de Madrid
+Aaron Hughes	"Cookstown, Condado de Tyrone, Irlanda del Norte"	08 de noviembre de 1979	33	Inglaterra	Premier League	Fulham
+Éver Maximiliano David Banega	"Rosario, Argentina"	29 de junio de 1988	24	España	Liga BBVA	Valencia
+Diego Perotti	"Moreno, Argentina"	26 de julio de 1988	24	España	Liga BBVA	Sevilla
+Tranquillo Barnetta	"Sankt Gallen, Suiza"	22 de mayo de 1985	27	Alemania	Bundesliga	FC Schalke 04
+Federico Peluso	"Roma, Italia"	20 de enero de 1984	29	Italia	Serie A	Juventus
+Martin Škrtel	"Handlová, Eslovaquia"	15 de diciembre de 1984	28	Inglaterra	Premier League	Liverpool
+Zdravko Kuzmanovi?	"Thun, Suiza"	22 de septiembre de 1987	25	Italia	Serie A	FC Internazionale Milano
+Mario Suáres Mata	"Alcobendas, Madrid, España"	24 de febrero de 1987	26	España	Liga BBVA	Atlético de Madrid
+John Heitinga	"Alphen aan den Rijin, Holanda"	15 de noviembre de 1983	29	Inglaterra	Premier League	Everton
+Filip Daems	"Turnhout, Bélgica"	31 de octubre de 1978	35	Alemania	Bundesliga	Borussia Mönchengladbach
+Joan Verdú Fernández	"Barcelona, España"	5 de mayo de 1983	29	España	Liga BBVA	Espanyol
+Federico Julián Fazio	"Ramos Mejía, (Buenos Aires )Argentina"	17 de marzo de 1987	26	España	Liga BBVA	Sevilla
+Daniel Schwaab	"Waldkirch, Alemania"	23 de agosto de 1988	24	Alemania	Bundesliga	Bayern Leverkusen
+Leighton Baines	"Liverpool,Inglaterra"	11 de diciembre de 1984	28	Inglaterra	Premier League	Everton
+Phil Jones	"Preston, Inglaterra"	21 de febrero de 1992	21	Inglaterra	Premier League	Manchester United
+Diego Daniel Colotto	"Córdoba, Argentina"	10 de marzo de 1981	32	España	Liga BBVA	Espanyol
+John Michael Nchekwube Obinha - Mikel John Obi	"Jos, Nigeria"	22 de abril de 1987	25	Inglaterra	Premier League	Chelsea
+Carlos Alberto Vela Garrido	"Quintana Roo, México"	1 de marzo de 1989	24	España	Liga BBVA	Real Sociedad
+Chinedu Obasi Ogbuke	"Enugu, Nigeria"	1 de junio de 1986	27	Alemania	Bundesliga	FC Schalke 04
+Philippe Coutinho Correia	"Río de Janeiro, Brasil"	12 de junio de 1992	21	Inglaterra	Premier League	Liverpool
+Eden Hazard	"La Louviere, Belgica"	7 de enero de 1991	22	Inglaterra	Premier League	Chelsea
+Gaby Mudingayi	"Kinshasa, Zaire"	1 de octubre de 1981	32	Italia	Seria A	FC Internazionale Milano
+Pablo Daniel Piatti	"Ucacha, Provincia de Córdoba, Argentina"	31 de marzo de 1989	24	España	Liga BBVA	Valencia
+Cristian Tello Herrera	"Sabadell, España"	11 de agosto de 1991	22	España	Liga BBVA	Barcelona
+Lewis Holtby	"Erkelenz, Alemania"	18 de septiembre de 1990	23	Inglaterra	Premier League	Tottenham
+Roel Brouwers	"Heerlen, Holanda"	28 de noviembre de 1981	22	Alemania	Bundesliga	Borussia Mönchengladbach
+Íñigo Martínez Berridi	"Ondárroa, Vizcaya, España"	17 de mayo de 1991	22	España	Liga BBVA	Real Sociedad
+Marco Amelia	"Frascati, Italia"	2 de abril de 1982	31	Italia	Seria A	Milan
+Sebastian Boenisch	"Gliwice, Polonia"	1 de febrero de 1987	26	Alemania	Bundesliga	Bayern Leverkusen
+Victor Anichebe	"Lagos, Nigeria"	23 de abril de 1988	25	Inglaterra	Premier League	Everton
+Daniel Parejo Muñoz	"Coslada, Madrid, España"	16 de abril de 1989	24	España	Liga BBVA	Valencia
+Luuk de Jong	"Aigle, Suiza"	27 de agosto de 1991	22	Alemania	Bundesliga	Borussia Mönchengladbach
+Leon Osman	"Wigan, Gran Manchester, Inglaterra"	17 de mayo de 1981	32	Inglaterra	Premier League	Everton
+Gabriel Fernández Arenas	"Madrid, España"	10 de julio de 1983	30	España	Liga BBVA	Atlético de Madrid
+Tom Huddlestone	"Nottingham, Inglaterra"	28 de diciembre de 1986	27	Inglaterra	Premier League	Tottenham
+Brede Hangeland	"Houston, Texas, EEUU"	20 de junio de 1981	32	Inglaterra	Premier League	Fulham
+Phil Jagielka	"Sale, Inglaterra"	17 de agosto de 1982	31	Inglaterra	Premier League	Everton
+Demba Ba      	"Sévres, Francia"	25 de mayo de 1985	28	Inglaterra	Premier League	Chelsea
+Cluadio Andrés Bravo Muñoz	"Viluco, Chile"	13 de abril de 1983	30	España	Liga BBVA	Real Sociedad
+Chris Baird	"Rasharkin, County Antrim, Irlanda del Norte"	25 de febrero de 1982	31	Inglaterra	Premier League	Fulham
+Markel Bergara Larrañaga	"Elgoibar, España"	5 de mayo de 1986	27	España	Liga BBVA	Real Sociedad
+Nikica Jelavi?	"Caplijna, SFR Yugoslavia"	27 de agosto de 1985	28	Inglaterra	Premier League	Everton
+Lucas Leiva 	"Dourados, Brasil"	9 de enero de 1987	26	Inglaterra	Premier League	Liverpool
+Kyle Walker	"Sheffield, Inglaterra"	28 de mayo de 1990	23	Inglaterra	Premier League	Tottenham
+Michael Dawson	"Northallerton, Inglaterra"	18 de noviembre de 1983	30	Inglaterra	Premier League	Tottenham
+Jan Vertonghen	"Sint-Niklaas, Belgica"	24 de april de 1987	26	Inglaterra	Premier League	Tottenham
+Marc-André ter Stegen	"Mönchengladback, Alemania"	30 de abril de 1992	21	Alemania	Bundesliga	Borussia Mönchengladbach
+Ignacio Monreal  Eraso	"Pamplona, España"	26 de febrero de 1986	27	Inglaterra	Premier League	Arsenal
+Gonzálo Castro Irizábal	"Trinidad, Uruguay"	14 de septiembre de 1984	29	España	Liga BBVA	Real Sociedad
+Sergio García  De La  Fuente	"Barcelona, España"	9 de junio de 1983	30	España	Liga BBVA	Espanyol
+Laurent Koscielny	"Tulle, Francia"	10 de septiembre de 1985	28	Inglaterra	Premier League	Arsenal
+Juan Pablo Carrizo	"Villa Constitución, Argentina"	6 de maro de 1984	29	Italia	Seria A	FC Internazionale Milano
+Javier López Rodríguez	"Osuna, España"	21 de enero de 1986	27	España	Liga BBVA	Espanyol
+Diego Contento	"Munich, Alemania"	1 de mayo de 1990	23	Alemania	Bundesliga	FC Bayern München
+Jorge Andújar Moreno	"Madrid, España"	26 de abril 1987	26	España	Liga BBVA	Sevilla
+Sergio Sánchez Ortega	"Mataró, España"	3 de abril de 1986	27	España	Liga BBVA	Málaga
+Michael Bradley	"Princeton, Nueva Jersey, EEUU"	31 de julio de 1987	26	Italia	Seria A	AS Roma
+Mikel González de Martín Martínez	"Mondragón, España"	24 de septiembre de 1985	28	España	Liga BBVA	Real Sociedad
+Shaun Maloney	"Bintuli, Sarawak, Malasia"	24 de enero de 1983	30	Inglaterra	Premier League	Wigan Athletic
+Jordan Brian Henderson	"Sunderland, Inglaterra"	17 de junio de 1990	23	Inglaterra	Premier League	Liverpool
+Daniel Sturridge	"Birmingham, inglaterra"	1 de septiembre de 1989	24	Inglaterra	Premier League	Liverpool
+Sylvain Distin	"Bagnolet, France"	16 de diciembre de 1975	38	Inglaterra	Premier League	Everton
+Gervais Yao Kouassi	"Anyama, Costa de Marfil"	27 de mayo de  de 1987	26	Inglaterra	Premier League	Arsenal
+Joel Chukwuma Obi	"Lagos, Nigeria"	22 de mayo de 1991	22	Italia	Seria A	FC Internazionale Milano
+Bryan Ruiz González	"San José, Costa Rica"	18 de agosto de 1985	28	Inglaterra	Premier League	Fulham
+Sascha Riether	"Lahr, Alemania"	23 de marzo de 1983	30	Inglaterra	Premier League	Fulham
+Antonio Barragán Fernández	"Pontedeume, España"	12 de junio de 1987	26	Italia	Liga BBVA	Valencia
+Roman Neustädter	"Dnipropetrovsk, Ucrania"	18 de febrero de 1988	25	Alemania	Bundesliga	FC Schalke 04
+Steve Sidwell	"Wandsworth, Londres, Inglaterra"	14 de diciembre de 1982	31	Inglaterra	Premier League	Fulham
+Jonathan Cícero Moreira	"Conselheiro Lafaiete, Brasil"	27 de febrero de 1986	27	Italia	Seria A	FC Internazionale Milano
+Oliver Kirch	"Soest, Alemania"	21 de agosto de 1982	31	Alemania	Bundesliga	Borussia Dortmund
+Antoine Griezmann	"Macon, Francia"	21 de marzo de 1991	22	España	Liga BBVA	Real Sociedad
+Imanol Agirretxe Arruti	"Usurbil, España"	24 de febrero de 1987	26	España	Liga BBVA	Real Sociedad
+Lars Unnerstall	"Ibbenbüren, Alemania"	20 de julio de 1990	23	Alemania	Bundesliga	FC Schalke 04
+Gary Caldwell	"Stirling, Escocia"	12 de abril de 1982	31	Inglaterra	Premier League	Wigan Athletic
+Stanislav Manolev	"Blagoevgrad, Bulgaria"	16 de diciembre de 1985	28	Inglaterra	Premier League	Fulham
+Ronnie Stam	"Breda, Holanda"	18 de junio de 1984	29	Inglaterra	Premier League	Wigan Athletic
+Iván Rodrigo Piris	"Itauguá, Paraguay"	10 de marzo de 1989	24	Italia	Seria A	AS Roma
+Teemu Pukki	"Kotka, Finlandia"	29 de marzo de 1990	23	Alemania	Bundesliga	FC Schalke 04
+Leandro Castan da Silva	"Jaú-SP, Brasil"	5 de noviembre de 1986	27	Italia	Seria A	AS Roma
+Eliseu Pereira dos Santos	"Angra de Heroísmo, Protugal"	1 de octubre de 1983	30	España	Liga BBVA	Málaga
+Raúl Rodríguez Navarro	"Vilassar de Mar, España"	22 de septiembre de 1987	26	España	Liga BBVA	Espanyol
+Víctor Ruíz Torre	"Esplugues de Llobregat, España"	25 de enero de 1989	24	España	Liga BBVA	Valencia
+Sidney Sam	"Kiel, Alemania"	31 de enero de 1988	25	Alemania	Bundesliga	Bayern Leverkusen
+Gylfi Thor Sigurdsson	"Hafnarfjörour, Irlanda"	8 de septiembre de 1989	24	Inglaterra	Premier League	Tottenham
+Moritz Leitner	"Munich, Alemania"	8 de diciembre de 1992	21	Alemania	Bundesliga	Borussia Dortmund
+Jesús Gámez Duarte	"Fuengirola, España"	10 de abril de 1985	28	España	Liga BBVA	Málaga
+Jens Hegeler	"Colonia, Alemania"	22 de enero de 1988	25	Alemania	Bundesliga	Bayern Leverkusen
+Atsuto Uchida	"Kannami, Shizuoka, Japón"	27 de marzo de 1988	25	Alemania	Bundesliga	FC Schalke 04
+Alberto Botía Rabasco	"Alquerías, Murcia, España"	27 de enero de 1987	26	España	Liga BBVA	Sevilla
+Carlos Martínez Díez	"Lodosa, Navarra, España"	9 de abrild e 1986	27	España	Liga BBVA	Real Sociedad
+Hugo Rodallega Martínez	"Candelaria, Valle del Cauca, Colombia"	25 de julio de 1985	28	Inglaterra	Premier League	Fulham
+Wilfredo Daniel Caballero	"Santa Elena, Entre Ríos, Argentina"	28 de septiembre de 1981	32	España	Liga BBVA	Málaga
+Cristian Darío Álvarez	"Rosario, Santa Fe, Argentina"	13 de noviembre de 1985	28	España	Liga BBVA	Espanyol
+Francisco Casilla Cortés	"Alcover, Tarragona, España"	2 de octubre de 1986	27	España	Liga BBVA	Espanyol
+Erik Lamela	"Carapachay, Argentina"	4 de marzo de 1992	21	Italia	Seria A	AS Roma
+Christian Ricardo Stuani Curbelo	"Tala, Uruguay"	12 de octubre de 1986	27	España	Liga BBVA	Espanyol
+Marco Antônio De Mattos Filho	"Passo Fundo, Río Grande do Sul, Brasil"	3 de julio de 1986	27	Italia	Seria A	AS Roma
+José Rodolfo Pires Ribeiro	"Sao Paolo, Brasil"	6 de febrero de 1992	21	Italia	Seria A	AS Roma
+Mauro Daniel Goicoechea	"Montevideo, Uruguay"	27 de marzo de 1988	25	Italia	Seria A	AS Roma
+Alex Sandro Mendonça Dos Santos	"Jundiai, Sao Paolo, Brasil"	4 de agosto de 1986	27	España	Liga BBVA	Sevilla
+Papa Babacar Diawara	"Dakar, Senegal"	5 de enero de 1988	25	España	Liga BBVA	Sevilla
+Vassilis Torosidis	"Xanti, Grecia"	10 de junio de 1985	28	Italia	Seria A	AS Roma
+Daniel Estrada Agirrezablaga	"Zarauz, Guipúzcoa, España"	3 de enero de 1987	26	España	Liga BBVA	Real Sociedad
+Panagiotis Tachtsidis	"Nauplia, Grecia"	15 de febrero de 1991	22	Italia	Seria A	AS Roma
+Hajime Hosogai	"Maebashi, Gunma, Japón"	10 de junio de 1986	27	Alemania	Bundesliga	Bayern Leverkusen
+Kevin Mirallas	"Lieja, Bélgica"	5 de octubre de 1987	26	Inglaterra	Premier League	Everton
+Ricardo Gabriel Álvarez	"Buenos Aires, Argentina"	12 de abril de 1988	25	Italia	Seria A	FC Internazionale Milano
+Ömer Toprak	"Ravensburg, Alemania"	21 de julio de 1989	24	Alemania	Bundesliga	Bayern Leverkusen
+Kyle Naughton	"Sheffield, Yorkshire del Sur, Inglaterra"	11 de noviembre de 1988	25	Inglaterra	Premier League	Tottenham
+Bernd Leno	"Bietigheim-Bissingen, Alemania"	4 de marzo de 1992	21	Alemania	Bundesliga	Bayern Leverkusen
+Juan Guilherme Nunes Jesus	"Belo Horizonte, Brasil"	10 de juniio de 1991	22	Italia	Seria A	FC Internazionale Milano
+Paul Pogba	"Lagny-sur-Marne, Francia"	15 de marzo de 1993	20	Italia	Seria A	Juventus
+M’Baye Babacar Niang	"Meulan, Yvelines, Francia"	19 de diciembre de 1994	19	Italia	Seria A	AC Milan
+Martín Montoya  Torralbo	"Crevillent, Alicante, España"	14 de abril de 1991	22	España	Liga BBVA	Barcelona
+Luca Marrone	"Turín, Italia"	28 de marzo de 1990	23	Italia	Seria A	Juventus
+Sérgio Paulo Barbosa Valente	"Oporto, Portugal"	27 de junio de 1980	33	España	Liga BBVA	Málaga
+Alex Oxlade-Chamberlain	"Portsmouth, Hampshire, Inglaterra"	15 de agosto de 1993	20	Inglaterra	Premier League	Arsenal
+Aaron Ramsey	"Caerphilly, Gales"	26 de diciembre de 1990	23	Inglaterra	Premier League	Arsenal
+Jake Livermore	"Londres, Reino Unido"	14 de noviembre de 1989	24	Inglaterra	Premier League	Tottenham
+Kyriakos Papadopoulos	"Katerini, Grecia"	23 de febrero de 1993	20	Alemania	Bundesliga	FC Schalke 04
+Ignacio Camacho Barnola	"Zaragoza, Aragón, España"	4 de mayo de 1990	23	España	Liga BBVA	Málaga
+Alessandro Florenzi	"Roma, Italia"	11 de marzo de 1991	22	Italia	Seria A	AS Roma
+Marcos Aoás Correa	"Sao Paolo, Brasil"	14 de mayo de 1994	19	Italia	Seria A	AS Roma
+Asier Illarramendi Andonegi	"Mutriku, Guipúzcoa, España"	8 de marzo de 1990	23	España	Liga BBVA	Real Sociedad
+Geoffrey Kondogbia	"Nemours, Francia"	15 de febrero de 1993	20	España	Liga BBVA	Sevilla
+Joe Allen	"Carmarthen, Gales"	1 4de marzo de 1990	23	Inglaterra	Premier League	Liverpool
+Kieran Gibbs	"Lambeth, Londres, Inglaterra"	26 de septiembre de 1989	24	Inglaterra	Premier League	Arsenal
+José Raúl Baena Urdiales	"Torroz, Málaga, España"	2 de marzo de 1989	24	España	Liga BBVA	Espanyol
+Rubén Pardo Gutiérrez	"Rincón de Soto, Logroño, España"	22 de octubre de 1992	21	España	Liga BBVA	Real Sociedad
+Samuele Longo	"Huntale, Ihuela, Italia"	12 de enero de 1992	21	España	Liga BBVA	Espanyol
+Steven Caulker	"Londres, Reino Unido"	29 de diciembre de 1991	22	Inglaterra	Premier League	Tottenham
+Weligton Robson Pena  de Oliveira	"Fernandópolis, Brasil"	26 de agosto de 1979	34	España	Liga BBVA	Málaga
+Emmerson Orlando Boyce	"Aylesbury, Inglaterra"	24 de septiembre de 1979	34	Inglaterra	Premier League	Wigan Athletic
+Jordi Gómez García-Penche	"Barcelona, España"	24 de mayo de 1985	28	Inglaterra	Premier League	Wigan Athletic
+Víctor Sánchez Mata	"Rubí, España"	8 de septiembre de 1987	26	España	Liga BBVA	Espanyol
+Ali Al Habsi	"Mascate, Omán"	30 de diciembre de 1981	32	Inglaterra	Premier League	Wigan Athletic
+Antolín Alcáraz Viveros	"San Roque González de Santa Cruz, Paraguay"	30 de julio de 1982	31	Inglaterra	Premier League	Wigan Athletic
+Sebastián Bruno Fernández Miglierina	"Montevideo, Uruguay"	23 de mayo de 1985	28	España	Liga BBVA	Málaga
+Maynor Alexis Figueroa Róchez	"Jutiapa, Atlántida, Honduras"	2 de mayo de 1983	30	Inglaterra	Premier League	Wigan Athletic
+Dominik Kohr	"Trier, Alemania"	31 de enero de 1994	19	Alemania	Bundesliga	Bayern Leverkusen
+Sergio Tejera Rodríguez	"Barcelona, Cataluña,España"	28 de mayo de 1990	23	España	Liga BBVA	Espanyol
+David Zurutuza Veillet	"Rochefort, Francia"	19 de julio de 1986	27	España	Liga BBVA	Real Sociedad
+Víctor Guillermo Álvares Delgado	"Barcelona, Cataluña,España"	14 de marzo de 1993	20	España	Liga BBVA	Espanyol
+Matias Ezequiel Schelotto	"Buenos Aires, Argentina"	23 de mayo de 1989	24	Italia	Seria A	FC Internazionale Milano
+Karim Bellarabi	"Berlín, Alemania"	8 de abril de 1990	23	Alemania	Bundesliga	Bayern Leverkusen
+James McArthur	"Glasgow, Escocia"	7 de octubre de1987	26	Inglaterra	Premier League	Wigan Athletic
+Manuel Rolando Iturra Urrutia	"Temuco, Chile"	23 de junio de 1984	29	España	Liga BBVA	Málaga
+Jorge Resurrección Merodio	"Madrid, España"	8 de enero de 1992	21	España	Liga BBVA	Atlético de Madrid
+Sebastián Coates Nión	"Montevideo, Uruguay"	7 de octubre de1990	23	Inglaterra	Premier League	Liverpool
+Francisco Román Alarcón Suárez	"Benalmádena, Málaga, España"	21 de abril de 1992	21	España	Liga BBVA	Málaga
+Manuel del Moral Fernández	"Jaén, España"	25 de febrero de 1984	29	España	Liga BBVA	Sevilla
+Jean Beausejour	"Santiago, Chile"	1 de junio de 1984	29	Inglaterra	Premier League	Wigan Athletic
+Wakaso Mubarak	"Tamale, Ghana"	25 de julio de 1990	23	España	Liga BBVA	Espanyol
+Diego Ifrán	"Cerro Chato, Uruguay"	8 de junio de 1987	26	España	Liga BBVA	Real Sociedad
+Mateo Kova?i?	"Linz, Austria"	6 de mayo de 1994	19	Italia	Seria A	FC Internazionale Milano
+Steven Naismith	"Irvine, Escocia"	14 de septiembre de 1986	27	Inglaterra	Premier League	Everton
+Sergio Canales Madrazo	"Santander, Cantabria, España"	16 de febrero de 1991	22	España	Liga BBVA	Valencia
+Christoph  Moritz	"Düren, Renania del Norte-Westfalia, Alemania"	27 de enero de 1990	23	Alemania	Bundesliga	FC Schalke 04
+Antenor Junior Fernández da Silva Vitoria	"Tocopilla, Chile"	4 de octubre de 1988	25	Alemania	Bundesliga	Bayern Leverkusen
+Fabio Borini	"Bentivoglio, Italia"	29 de marzo de 1991	22	Inglaterra	Premier League	Liverpool
+Oussama Assaidi	"Beni-Boughafar, Marruecos"	15 de agosto de 1988	25	Inglaterra	Premier League	Liverpool
+Daniel Carvajal Ramos	"Leganés, Madrid, España"	11 de enero de 1992	21	Alemania	Bundesliga	Bayern Leverkusen
+Raffael Caetano de Araújo	Brasil	28 de marzo de 1985	28	Alemania	Bundesliga	FC Schalke 04
+Emmanuel Frimpong	"Accra, Ghana"	10 de enero de 1992	21	Inglaterra	Premier League	Fulham
+Lucas Piazon	"Sao Paolo, Brasil"	20 de enero de 1994	19	España	Liga BBVA	Málaga
+Philipp Wollscheid	"Wadern, Alemania"	6 de marzo de 1989	24	Alemania	Bundesliga	Bayern Leverkusen
+James McCarthy	"Glasgow, Escocia"	12 de noviembre de 1990	23	Inglaterra	Premier League	Wigan Athletic
+Ion Ansotegi Gorostola	"Vizcaya, España"	13 de julio de 1982	31	España	Liga BBVA	Real Sociedad
+Francisco Portillo Soler	"Málaga, España"	13 de junio de 1990	22	España	Liga BBVA	Málaga
+Cristian Alfonso López	España	02 de mayo de 1989	23	España	Liga BBVA	Espanyol
+Cristian Gómez García	"L'Hospitalet de Llobregat, España"	27 de julio de 1989	23	España	Liga BBVA	Espanyol
+Ryo Miyaichi	"Okazaki, Japón"	14 de diciembre de 1992	20	Inglaterra	Premier League	Wigan Athletic
+Franco Di Santo 	"Mendoza, Argentina"	07 de abril de 1989	24	Inglaterra	Premier League	Wigan Athletic
+Ashkan Dejagah	"Teheran, Iran"	05 de julio de 1986	26	Inglaterra	Premier League	Fulham
+Oguchi Chijioke Onyewu	"Washington, D.C., Estados Unidos"	13 de mayo de 1982	30	España	Liga BBVA	Málaga
+Róger Espinoza Ramírez	"Puerto Cortés, Honduras"	25 de octubre de 1986	26	Inglaterra	Premier League	Wigan Athletic
+Alessio Romagnoli	"Roma, Italia"	12 de enero de 1995	18	Italia	Serie A	AS Roma
+Javier Hervás Salmoral	"Córdoba, España"	09 de junio de 1989	23	España	Liga BBVA	Sevilla
+Bryan Oviedo	"San José, Costa Rica"	18 de febrero de 1990	23	Inglaterra	Premier League	Everton
+Callum McManaman	"Whiston, Inglaterra"	25 de abril de 1991	21	Inglaterra	Premier League	Wigan Athletic
+Juan Bernat Velasco	"Paterna, España"	01 de marzo de 1993	20	España	Liga BBVA	Valencia
+Daniele Rugani	Italia	29 de julio de 1994	18	Italia	Serie A	Juventus
+Jonathan Viera Ramos	"Lass Palmas de Gran Canaria, España"	21 de octubre de 1989	23	España	Liga BBVA	Valencia
+José Ángel Gómez Campaña	"Sevilla, España"	30 de mayo de 1993	19	España	Liga BBVA	Sevilla
+Alberto Moreno Pérez	"Sevilla, España"	05 de julio de 1992	20	España	Liga BBVA	Sevilla
+Miroslav Stevanovi?	Bosnia-Herzegovina	29 de julio de 1990	22	España	Liga BBVA	Sevilla
+Ángelo José Henríquez Iturra	"Santiago de Chile, Chile"	13 de abril de 1994	18	Inglaterra	Premier League	Wigan Athletic
+Arkadiusz Milik	"Tychy, Polonia"	28 de febrero de 1994	19	Alemania	Bundesliga	Bayern Leverkusen
+Okan Aydin	"Leverkusen, Alemania"	08 de mayo de 1994	18	Alemania	Bundesliga	Bayern Leverkusen
+Max Meyer	Alemania	18 de septiembre de 1995	17	Alemania	Bundesliga	FC Schalke 04
+Dani Barrio	"Gijón, España"	10 de febrero de 1987	26	España	Segunda B	Real Oviedo CF
+Orlando Quintana	"Las Palmas, España"	25 de marzo de 1978	35	España	Segunda B	Real Oviedo CF
+David Fernández	"Madrid, España"	06 de abril de 1985	28	España	Segunda B	Real Oviedo CF
+Álvaro García	"Oviedo, España"	07 de enero de 1989	24	España	Segunda B	Real Oviedo CF
+Héctor Simón	"Llança, España"	13 de marzo de 1984	29	España	Segunda B	Real Oviedo CF
+Javi Casares	"Jerez de la Frontera, España"	13 de junio de 1984	28	España	Segunda B	Real Oviedo CF
+Xavi Moré	"Barcelona, España"	07 de junio de 1982	30	España	Segunda B	Real Oviedo CF
+Iván Rubio	"Valencia, España"	01 de marzo de 1991	22	España	Segunda B	Real Oviedo CF
+Aitor Sanz	"Madrid, España"	13 de septiembre de 1984	28	España	Segunda B	Real Oviedo CF
+Manu Busto	"Santander, España"	07 de octubre de 1980	32	España	Segunda B	Real Oviedo CF
+Jairo Cárcaba	"Gijón, España"	27 de mayo de 1992	20	España	Segunda B	Real Oviedo CF
+Pepe Díaz	"Almodóvar del Río, España"	20 de abril de 1980	32	España	Segunda B	Real Oviedo CF
+Fran Sol	"Madrid, España"	13 de marzo de 1992	21	España	Segunda B	Real Oviedo CF
+Roberto Gutiérrez	España	15 de marzo de 1991	22	España	Segunda B	CD Tenerife
+Bruno González	"Las Galletas, España"	24 de mayo de 1990	22	España	Segunda B	CD Tenerife
+Raúl Llorente	"Madrid, España"	02 de abril de 1986	27	España	Segunda B	CD Tenerife
+Sergio Rodríguez	"Talavera de la Reina, España"	22 de agosto de 1990	22	España	Segunda B	CD Tenerife
+Francisco Tarantino	"Bermeo, España"	26 de junio de 1984	28	España	Segunda B	CD Tenerife
+Yeray González	"Tenerife, España"	03 de abril de 1988	25	España	Segunda B	CD Tenerife
+Cristo Martín	"Santa Cruz de Tenerife, España"	18 de junio de 1987	25	España	Segunda B	CD Tenerife
+Francisco Ochoa	"Córdoba, España"	15 de noviembre de 1989	23	España	Segunda B	CD Tenerife
+Iñigo Ros	"Tudela, España"	21 de octubre de 1982	30	España	Segunda B	CD Tenerife
+Suso Santana 	"Santa Cruz de Tenerife, España"	02 de marzo de 1985	28	España	Segunda B	CD Tenerife
+Luismi Loro	"Fuenlabrada, España"	04 de septiembre de 1979	33	España	Segunda B	CD Tenerife
+Ayoze Pérez	"Santa Cruz de Tenerife, España"	23 de julio de 1993	19	España	Segunda B	CD Tenerife
+Javier Díaz	España			España	Segunda B	Caudal Deportivo de Mieres
+Adrián Fernández	España			España	Segunda B	Caudal Deportivo de Mieres
+Sergio Segura	"Madrid, España"	01 de febrero de 1978	35	España	Segunda B	Caudal Deportivo de Mieres
+Noel Alonso	"Gijón, España"	19 de marzo de 1987	26	España	Segunda B	Caudal Deportivo de Mieres
+Damián Fernández	"Turón, España"			España	Segunda B	Caudal Deportivo de Mieres
+Armando Invernón	"Oviedo, España"	20 de febrero de 1980	22	España	Segunda B	Caudal Deportivo de Mieres
+Nacho López	"Oviedo, España"	24 de octubre de 1987	25	España	Segunda B	Caudal Deportivo de Mieres
+Pablo Pantiga	"Gijón, España"	18 de junio de 1981	31	España	Segunda B	Caudal Deportivo de Mieres
+Berto Toyos	"Oviedo, España"	27 de mayo de 1985  	27	España	Segunda B	Caudal Deportivo de Mieres
+Dani Pevida	España	14 de mayo de 1986	26	España	Segunda B	Caudal Deportivo de Mieres
+Nacho Fernández	"Oviedo, España"	12 de febrero de 1980	33	España	Segunda B	Caudal Deportivo de Mieres
+Marcos Norniella	España			España	Segunda B	Caudal Deportivo de Mieres
+Nacho Calvillo	"Jaca, España"	01 de agosto de 1981	31	España	Segunda B	Caudal Deportivo de Mieres
+Nacho Méndez	"Oviedo, España"	27 de enero de 1989	24	España	Segunda B	Caudal Deportivo de Mieres
+Borja Navarro	"Gijón, España"	14 de mayo de 1990	22	España	Segunda B	Caudal Deportivo de Mieres
+Antonio Rojas	"Villarrobledo, España"	22 de marzo de 1984	29	España	Segunda B	Caudal Deportivo de Mieres
+Javi Sánchez	España	07 de mayo de 1987	25	España	Segunda B	Caudal Deportivo de Mieres
+David Borrás	"Madrid, España"	16 de marzo de 1988	25	España	Segunda B	CF Fuenlabrada
+Raúl Aguilar	"Toledo, España"	01 de diciembre de 1981	31	España	Segunda B	CF Fuenlabrada
+Rubén Anuarbe	"Madrid, España"	18 de junio de 1981	31	España	Segunda B	CF Fuenlabrada
+Borja Díaz	España	02 de noviembre de 1990	22	España	Segunda B	CF Fuenlabrada
+Fran Dorado	"Segovia, España"	10 de octubre de 1986	26	España	Segunda B	CF Fuenlabrada
+Dani López	"Barcelona, España"	31 de marzo de 1992	21	España	Segunda B	CF Fuenlabrada
+Antonio López	"Madrid, España"	12 de mayo de 1980	32	España	Segunda B	CF Fuenlabrada
+Jesús Sánchez	"Madrid, España"	03 de octubre de 1991	21	España	Segunda B	CF Fuenlabrada
+Rubén Ramos	"Leganés, España"	31 de enero de 1989	24	España	Segunda B	CF Fuenlabrada
+Diego Sánchez	España	15 de mayo de 1990	22	España	Segunda B	CF Fuenlabrada
+Álex García	España	09 de julio de 1991	21	España	Segunda B	UD Salamanca
+Raúl Moreno	"Madrid, España"	21 de noviembre de 1979	33	España	Segunda B	UD Salamanca
+Adrián Murcia	"Elche, España"	23 de enero  de 1988	25	España	Segunda B	UD Salamanca
+Pol Bueso	"Moncófar, España"	27 de abril de 1985	27	España	Segunda B	UD Salamanca
+Raúl Fuster	"Elche, España"	23 de julio de 1985	27	España	Segunda B	UD Salamanca
+Pablo Gómez	"Nava del Rey, España"	12 de septiembre de 1988	24	España	Segunda B	UD Salamanca
+Jesús Hernández de la Torre	"Salamanca, España"	29 de junio de 1989	23	España	Segunda B	UD Salamanca
+Esteban Griñón	"Santa Marta de Tormes, España"	14 de abril de 1993	19	España	Segunda B	UD Salamanca
+José Ródriguez	"Palma de Mallorcar, España"	01 de julio de 1985	27	España	Segunda B	UD Salamanca
+Víctor Andrés	"Soria, España"	21 de octubre de 1988	24	España	Segunda B	UD Salamanca
+Álvaro Coque	"Salamanca, España"	03 de abril de 1991	22	España	Segunda B	UD Salamanca
+Almami  Moreira	"Bissau, Portugal"	16 de junio de 1978	34	España 	Segunda B	UD Salamanca
+Alexis De Paz	"Icod de los Vinos, España"	23 de enero  de 1990	23	España	Segunda B	UD Salamanca
+Aitor Pons	"Mahón, España"	24 de enero de 1991	22	España	Segunda B	UD Salamanca
+Christian Cabrera	España	08 de septiembre de 1992	20	España	Segunda B	Coruxo FC
+Brais Pereiro	España			España	Segunda B	Coruxo FC
+Aarón Puente	"León, España"	15 de mayo de 1992	19	España	Segunda B	Coruxo FC
+Yago Alonso	"Abidjan, Costa de Marfil"	19 de agosto de 1979	33	España	Segunda B	Coruxo FC
+David Campos	"Vigo, España"	10 de febrero de 1979	34	España	Segunda B	Coruxo FC
+José Costas	"Gondomar, España"	23 de septiembre de 1976	36	España	Segunda B	Coruxo FC
+Álex Freire	"Pontevedra, España"	19 de junio de 1989	23	España	Segunda B	Coruxo FC
+Aitor Pastoriza	"Vigo, España"	28 de agosto de 1988	24	España	Segunda B	Coruxo FC
+Adrián Pazó	"Vigo, España"	10 de noviembre de 1989	23	España 	Segunda B	Coruxo FC
+Jonathan Antúnez	"Porriño, España"	07 de abril de 1982	31	España	Segunda B	Coruxo FC
+Víctor Besada	"Cangas, España"	19 de septiembre de 1986	26	España	Segunda B	Coruxo FC
+Miguel Centrón	"Cangas, España"	26 de junio de 1985	27	España	Segunda B	Coruxo FC
+Yerai Couñago	España			España	Segunda B	Coruxo FC
+Alberto García	"Vigo, España"	22 de febrero de 1981	32	España	Segunda B	Coruxo FC
+Yago Pérez	España	31 de diciembre de 1987	25	España	Segunda B	Coruxo FC
+Iosu Villar	"Cangas de Morrazo, España"	16 de febrero de 1987	26	España	Segunda B	Coruxo FC
+Aitor Gómez	"Redondela, España"	21 de febrero de 1986	27	España	Segunda B	Coruxo FC
+Rafa Mello	"A Coruña, España"	06 de noviembre de 1991	21	España	Segunda B	Coruxo FC
+Rafa Pérez	"Salceda de Caselas, España"	24 de enero de 1992	21	España	Segunda B	Coruxo FC
+Miguel Andrade	España			España	Segunda B	CD Ourense
+Manu Táboas	"Vigo, España"	30 de mayo de 1991	21	España	Segunda B	CD Ourense
+Borja Calvar	"Vigo, España"	01 de abril de 1981	32	España	Segunda B	CD Ourense
+Álex Fernández	"Ourense, España"	21 de junio de 1988	24	España	Segunda B	CD Ourense
+Adrián Padrón	"Ourense, España"	06 de junio de 1988	24	España	Segunda B	CD Ourense
+Toni Álvarez	"Ourense, España"	04 de julio de 1993	19	España	Segunda B	CD Ourense
+Jaime Noguerol	"Verín, España"	24 de febrero de 1984	29	España	Segunda B	CD Ourense
+Juan Martínez	"Cedeira, España"	24 de junio de 1990	22	España	Segunda B	CD Ourense
+Pablo Pillado	"Pontevedra, España"	27 de agosto de 1989	23	España	Segunda B	CD Ourense
+Rubén Arce	"Barbadás, España"	07 de febrero de 1991	22	España	Segunda B	CD Ourense
+Iván González	"Noia, España"	09 de octubre de 1978	34	España	Segunda B	CD Ourense
+Iker Hurtado	España	27 de octubre de 1993	19	España	Segunda B	CD Ourense
+Óscar Martínez	"Ourense, España"	09 de marzo de 1979	34	España	Segunda B	CD Ourense
+Adrián Quintairos	"Celanova, España"	15 de marzo de 1983	30	España	Segunda B	CD Ourense
+Borja Valle	"Ponferrada, España"	09 de julio de 1992	20	España	Segunda B	CD Ourense
+David Montero	"Salamanca, España"	12 de marzo de 1985	28	España	Segunda B	CD Guijuelo
+Pablo Vicente	"Valladolid, España"	11 de junio de 1988	24	España	Segunda B	CD Guijuelo
+Jonathan Martín	"Santa Marta de Tormes, España"	06 de marzo de 1981	32	España	Segunda B	CD Guijuelo
+Arturo Navarro	"Castellón, España"	14 de marzo de 1989	24	España	Segunda B	CD Guijuelo
+Óscar Valero	"Zaragoza, España"	28 de agosto de 1985	27	España	Segunda B	CD Guijuelo
+Víctor Abajo	"Salamanca, España"	07 de febrero de 1992	21	España	Segunda B	CD Guijuelo
+Aitor Aspas	"Moaña, España"	27 de febrero de 1993	20	España	Segunda B	CD Guijuelo
+Jaime Moreno	"Salamanca, España"	29 de abril de 1984	28	España	Segunda B	CD Guijuelo
+Javi Ballesteros	"Montamarta, España"	21 de agosto de 1984	28	España	Segunda B	CD Guijuelo
+Jorge Moreno	España			España	Segunda B	CD Guijuelo
+Ángel Lázaro	España	21 de julio de 1992	20	España	Segunda B	Zamora CF
+Sergio Sánchez	"Madrid, España"	27 de septiembre de 1986	26	España	Segunda B	Zamora CF
+Alberto Álvarez 	"Zamora, España"	05 de noviembre de 1990	22	España	Segunda B	Zamora CF
+Manu Arias	"Zamora, España"	13 de septiembre de 1982	30	España	Segunda B	Zamora CF
+Dani Mateos	"Zamora, España"	11 de enero de 1992	21	España	Segunda B	Zamora CF
+Dani Palacios	"Haro, España"	13 de marzo de 1986	27	España	Segunda B	Zamora CF
+Javi Ramos	"Mallorca, España"			España	Segunda B	Zamora CF
+Iñaki Eguileor	"Zamora, España"	13 de agosto de 1991	21	España	Segunda B	Zamora CF
+Sergio García	"Zamora, España"	08 de agosto de 1989	23	España	Segunda B	Zamora CF
+Nacho Matador	"Gijón, España"	11 de septiembre de 1986	26	España	Segunda B	Zamora CF
+Óscar Pérez	"Villalar de los Comuneros, España"	19 de agosto de 1993	19	España	Segunda B	Zamora CF
+Alejandro Ríos	España	23 de julio de 1992	20	España	Segunda B	Zamora CF
+Cristian Salvador	"Zamora, España"	20 de noviembre de 1994	18	España	Segunda B	Zamora CF
+Miguel Santos	"Zamora, España"	01 de julio de 1991	21	España	Segunda B	Zamora CF
+Jacobo Trigo	"Vigo, España"	16 de septiembre de 1988	24	España	Segunda B	Zamora CF
+Hugo Aguado	"Zamora, España"	28 de diciembre de 1988	24	España	Segunda B	Zamora CF
+Dani García	España	19 de mayo de 1995	17	España	Segunda B	Zamora CF
+Jorge Hernández	"Zamora, España"	06 de febrero de 1992	21	España	Segunda B	Zamora CF
+Dani Hernández	"Zamora, España"	30 de mayo de 1992	20	España	Segunda B	Zamora CF
+Cristian Marcos	España	25 de agosto de 1992	20	España	Segunda B	Zamora CF
+Javi Rodríguez	"Zamora, España"	28 de septiembre de 1991	21	España	Segunda B	Zamora CF
+Matías Maini	Uruguay	17 de abril de 1990	22	España	Segunda B	CD Marino
+Yeray Oval	España			España	Segunda B	CD Marino
+Pablo Barroso	España	19 de octubre de 1989	23	España	Segunda B	CD Marino
+Aarón Pérez	"Puerto de la Cruz, España"	04 de mayo de 1985	27	España	Segunda B	CD Marino
+Ayoze Placeres	"Santa Cruz de Tenerife, España"	31 de julio de 1991	21	España	Segunda B	CD Marino
+Aarón Darias	"Hamburgo, Alemania"	26 de agosto de 1982	30	España	Segunda B	CD Marino
+Javi Marchena	"Santa Cruz de Tenerife, España"	14 de noviembre de 1987	25	España	Segunda B	CD Marino
+Airam García	"Santa Cruz de Tenerife, España"	21 de febrero de 1985	28	España	Segunda B	CD Marino
+Adán Pérez	España	24 de mayo de 1990	22	España	Segunda B	CD Marino
