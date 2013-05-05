@@ -5,20 +5,20 @@
 	<title>
 	</title>
 	<link rel="stylesheet" href="listado.css">
-	</head>
+</head>
 <body>
 	<div id="wrapper">
 
-	<div id="buscador">
+		<div id="buscador">
 
-<div id="buscador-form">
-<form>
-	<input type="text" name placeholder="Escribe algo">
-	<input type="submit" value="Buscar">
-</form>
-</div>
-<div id="listado">
-	<ul>
+			<div id="buscador-form">
+				<form>
+					<input type="text" name placeholder="Escribe algo">
+					<input type="submit" value="Buscar">
+				</form>
+			</div>
+			<div id="listado">
+				<ul>
 
 <?php 
 require_once('./config.php');
@@ -61,51 +61,31 @@ class Jugador
 
 
 
-	$archivo=fopen("jugadores.txt","r") or
-			die("El archivo no se pudo abrir.");
-<<<<<<< HEAD
-		
-=======
+$archivo=fopen("jugadores.txt","r") or
+die("El archivo no se pudo abrir.");
 
->>>>>>> cambios
-    $coincidencias[] = new StdClass;
-	$i=0;
-	$lineas = file('jugadores.txt');
-  foreach ($lineas as $numero => $linea) {
-           $numero_de_linea = $numero + 1;
-<<<<<<< HEAD
-	
-
-				$i++;
-				//echo "Se ha encontrado coincidencia.";
-		
-=======
+$coincidencias[] = new StdClass;
+$i=0;
+$lineas = file('jugadores.txt');
+foreach ($lineas as $numero => $linea) {
+	$numero_de_linea = $numero + 1;
 
 
-				$i++;
+	$i++;
 				//echo "Se ha encontrado coincidencia.";
 
->>>>>>> cambios
-				if(strpos($linea, $palabra))
-				{
-				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $linea);
-				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
-				}
-<<<<<<< HEAD
-				
-=======
+	if(strpos($linea, $palabra))
+	{
+		list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $linea);
+		$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
+	}
 
 
->>>>>>> cambios
 
 				//echo $nombre_completo.$lugar_nacimiento.$fecha_nacimiento.$edad.$pais_juega.$liga_juega.$club;
 		//$jugador = "$apellido $nombre";
 				//echo "Linea $numero_de_linea: $linea<br>";
-<<<<<<< HEAD
-				
-=======
 
->>>>>>> cambios
   // echo "Linea $numero_de_linea: $linea<br>";
 }
 
@@ -124,18 +104,15 @@ function mostrar($Jugadores){
 
 	foreach ($Jugadores as $key => $jugador)
 	{
-		//$ID = (string)$jugador->id;
-		$ID = 1;
-		//echo $ID;
     //  $argumento = urlencode(serialize($jugador));
-      print "<li>";
+		print "<li>";
      // print "<a href='detalle.php?id=".$key."&".$argumento."'>";
-      print "<a href='detalle.php?id=".$jugador->id."'>";
+		print "<a href='detalle.php?id=".$jugador->id."'>";
 
-      print $jugador->nombre;
-      print "</a>";
-      print "</li>";
-    }
+		print $jugador->nombre;
+		print "</a>";
+		print "</li>";
+	}
 
 }
 
@@ -143,14 +120,14 @@ function mostrar($Jugadores){
 
 ?>
 
-	</ul>
-	</div>
+</ul>
+</div>
 <div id="footer">
 
 </div>
 
-	</div>
-	</div>
+</div>
+</div>
 </body>
 
 </html>
