@@ -35,12 +35,12 @@ class Jugador
 
 
 
-	$archivo=fopen("lista_jugadores.txt","r") or
+	$archivo=fopen("jugadores.txt","r") or
 			die("El archivo no se pudo abrir.");
 		
     $coincidencias[] = new StdClass;
 	$i=0;
-	$lineas = file('lista_jugadores.txt');
+	$lineas = file('jugadores.txt');
   foreach ($lineas as $numero => $linea) {
            $numero_de_linea = $numero + 1;
 	
@@ -56,6 +56,8 @@ class Jugador
 }
 
 fclose($archivo);
+
+//print_r($arregloJugadores);
 
 
 

@@ -32,7 +32,7 @@ $jugadoresEncontrados = array();
 
 
 
-$id = 0;
+
 
 class Jugador
 {
@@ -60,35 +60,38 @@ class Jugador
 
 
 
-	$archivo=fopen("lista_jugadores.txt","r") or
+
+	$archivo=fopen("jugadores.txt","r") or
 			die("El archivo no se pudo abrir.");
 		
-
+    $coincidencias[] = new StdClass;
 	$i=0;
-	$lineas = file('lista_jugadores.txt');
+	$lineas = file('jugadores.txt');
   foreach ($lineas as $numero => $linea) {
            $numero_de_linea = $numero + 1;
 	
-	  //  if(strpos($linea,$palabra) !== FALSE){
+
 				$i++;
 				//echo "Se ha encontrado coincidencia.";
 		
-
-				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club,$id) = explode( "\t", $linea);
-
-				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club,$id);
+				if(strpos($linea, $palabra))
+				{
+				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $linea);
+				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
+				}
+				
 
 			
 				//echo $nombre_completo.$lugar_nacimiento.$fecha_nacimiento.$edad.$pais_juega.$liga_juega.$club;
 		//$jugador = "$apellido $nombre";
 				//echo "Linea $numero_de_linea: $linea<br>";
-			//	}
+				
   // echo "Linea $numero_de_linea: $linea<br>";
 }
 
 fclose($archivo);
 echo "<pre>";
-print_r($arregloJugadores);
+//print_r($arregloJugadores);
 echo "</pre>";
 
 mostrar($arregloJugadores);
@@ -101,10 +104,13 @@ function mostrar($Jugadores){
 
 	foreach ($Jugadores as $key => $jugador)
 	{
+		//$ID = (string)$jugador->id;
+		$ID = 1;
+		//echo $ID;
     //  $argumento = urlencode(serialize($jugador));
       print "<li>";
      // print "<a href='detalle.php?id=".$key."&".$argumento."'>";
-      print "<a href='detalle.php?id=".$key."'>";
+      print "<a href='detalle.php?id=".$jugador->id."'>";
 
       print $jugador->nombre;
       print "</a>";
@@ -116,7 +122,6 @@ function mostrar($Jugadores){
 
 
 ?>
-
 
 	</ul>
 	</div>
