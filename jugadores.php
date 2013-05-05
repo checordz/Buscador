@@ -54,9 +54,6 @@ class Jugador
 }
 
 fclose($archivo);
-echo "<pre>";
-print_r($arregloJugadores);
-echo "</pre>";
 
 
 
