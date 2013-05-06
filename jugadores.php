@@ -52,12 +52,13 @@ class Jugador
 
 				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club,$id);
 
+
 			
 }
 
 fclose($archivo);
 
-//print_r($arregloJugadores);
+print_r($arregloJugadores);
 
 
 
