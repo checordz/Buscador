@@ -58,7 +58,6 @@ class Jugador
 
 fclose($archivo);
 
-print_r($arregloJugadores);
 
 
 

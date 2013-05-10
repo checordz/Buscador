@@ -1,4 +1,7 @@
+
 <!DOCTYPE html>
+
+
 <html lang="es">
 <head>
 	<meta charset="utf-8">
@@ -12,20 +15,86 @@
 	<div id="buscador">
 
 <div id="buscador-form">
-<form>
-	<input type="text" name placeholder="Escribe algo">
+<form action="<?php echo $_SERVER['PHP_SELF']; ?>">
+	<input type="text" name="palabra" id="palabra" name placeholder="Escribe algo" 
+	value="<?php
+
+
+	$palabra = $_REQUEST['palabra'];
+
+    
+
+
+    $palabra = limpiar_string($palabra); 
+   
+     echo "$palabra";
+
+
+     function limpiar_string($string)
+{
+
+    $string = trim($string);
+
+    $string = str_replace(
+        array('á', 'à', 'ä', 'â', 'ª', 'Á', 'À', 'Â', 'Ä'),
+        array('a', 'a', 'a', 'a', 'a', 'A', 'A', 'A', 'A'),
+        $string
+    );
+
+    $string = str_replace(
+        array('é', 'è', 'ë', 'ê', 'É', 'È', 'Ê', 'Ë'),
+        array('e', 'e', 'e', 'e', 'E', 'E', 'E', 'E'),
+        $string
+    );
+
+    $string = str_replace(
+        array('í', 'ì', 'ï', 'î', 'Í', 'Ì', 'Ï', 'Î'),
+        array('i', 'i', 'i', 'i', 'I', 'I', 'I', 'I'),
+        $string
+    );
+
+    $string = str_replace(
+        array('ó', 'ò', 'ö', 'ô', 'Ó', 'Ò', 'Ö', 'Ô'),
+        array('o', 'o', 'o', 'o', 'O', 'O', 'O', 'O'),
+        $string
+    );
+
+    $string = str_replace(
+        array('ú', 'ù', 'ü', 'û', 'Ú', 'Ù', 'Û', 'Ü'),
+        array('u', 'u', 'u', 'u', 'U', 'U', 'U', 'U'),
+        $string
+    );
+
+    $string = str_replace(
+        array('ñ', 'Ñ', 'ç', 'Ç'),
+        array('n', 'N', 'c', 'C',),
+        $string
+    );
+
+ 
+
+
+    return $string;
+}
+
+
+
+	 ?>">
 	<input type="submit" value="Buscar">
 </form>
 </div>
 <div id="listado">
 	<ul>
 
+
 <?php 
 require_once('./config.php');
 header('Content-Type: text/html; charset=iso-8859-1');
 
-$palabra = $_POST['palabra'];
+//$palabra = $_POST['palabra'];
+$palabra = $_REQUEST['palabra'];
 
+$palabra = sanear_string($palabra);
 
 $arregloJugadores = array();
 $jugadoresEncontrados = array();
@@ -72,15 +141,30 @@ class Jugador
 $datos = $linea;
 //$linea = strtolower($linea);
 //$utf = strtolower($palabra);
-$utf = sanear_string($palabra);
+if (empty($palabra))
+{
+    
+	break;
+}
+
+$utf= utf8_encode($palabra);
+$utf = sanear_string($utf);
+
 $linea= utf8_encode($linea);
 $linea = sanear_string($linea);
 
+$utf = strtoupper($utf);
+$linea = strtoupper($linea);
+
+$utf2 = mb_strtoupper($palabra,'iso-8859-1');
+// $linea = mb_strtoupper($linea,'iso-8859-1');
 		$i++;
 				//echo "Se ha encontrado coincidencia.";
-		
+			
 				if(strpos($linea, $utf) !==FALSE )
 				{
+
+				
 				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $datos);
 				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
 				}
@@ -173,8 +257,10 @@ function sanear_string($string)
     return $string;
 }
 
-?>
 
+
+
+?>
 	</ul>
 	</div>
 <div id="footer">
