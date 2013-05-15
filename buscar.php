@@ -147,6 +147,7 @@ if (empty($palabra))
 	break;
 }
 
+
 $utf= utf8_encode($palabra);
 $utf = sanear_string($utf);
 
@@ -158,23 +159,52 @@ $linea = strtoupper($linea);
 
 $utf2 = mb_strtoupper($palabra,'iso-8859-1');
 // $linea = mb_strtoupper($linea,'iso-8859-1');
-		$i++;
-				//echo "Se ha encontrado coincidencia.";
-			
-				if(strpos($linea, $utf) !==FALSE )
-				{
+ $data = explode( " ", $utf);
+   $tamano = sizeof($data);
+        $i++;
+                //echo "Se ha encontrado coincidencia.";
+    
 
-				
-				list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $datos);
-				$arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
-				}
-				
+switch ($tamano) {
+    case 0:
+       
+        break;
+    case 1:
+         if(strpos($linea, $data[0]) !==FALSE){
+             list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $datos);
+                $arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
+                }
+        break;
+    case 2:
+    if(strpos($linea, $data[0]) !==FALSE && strpos($linea, $data[1]) !==FALSE){
+             list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $datos);
+                $arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
+                }
+        break;
 
-			
-				//echo $nombre_completo.$lugar_nacimiento.$fecha_nacimiento.$edad.$pais_juega.$liga_juega.$club;
-		//$jugador = "$apellido $nombre";
-				//echo "Linea $numero_de_linea: $linea<br>";
-				
+        case 3:
+           if(strpos($linea, $data[0]) !==FALSE && strpos($linea, $data[1]) !==FALSE && strpos($linea, $data[2]) !==FALSE){
+             list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $datos);
+                $arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
+                }
+        break;
+
+
+            case 4:
+           if(strpos($linea, $data[0]) !==FALSE && strpos($linea, $data[1]) !==FALSE && strpos($linea, $data[2]) !==FALSE && strpos($linea, $data[3]) !==FALSE){
+             list($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id) = explode( "\t", $datos);
+                $arregloJugadores[] = new Jugador($nombre_completo, $lugar_nacimiento,$fecha_nacimiento,$edad,$pais_juega,$liga_juega,$club, $id);
+                }
+        break;
+}
+            
+
+
+            
+                //echo $nombre_completo.$lugar_nacimiento.$fecha_nacimiento.$edad.$pais_juega.$liga_juega.$club;
+        //$jugador = "$apellido $nombre";
+                //echo "Linea $numero_de_linea: $linea<br>";
+                
   // echo "Linea $numero_de_linea: $linea<br>";
 }
 
